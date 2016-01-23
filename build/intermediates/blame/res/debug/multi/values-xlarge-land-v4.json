@@ -1,5 +1,29 @@
 [
     {
+        "outputFile": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-xlarge-land/values-xlarge-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 237,
+                        "endColumn": 63,
+                        "endOffset": 296
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/values-xlarge-land-v4/values-xlarge-land-v4.xml",
         "map": [
             {
@@ -24,7 +48,7 @@
         ]
     },
     {
-        "outputFile": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+        "outputFile": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/values-xlarge-land-v4/values-xlarge-land-v4.xml",
         "map": [
             {
                 "to": {
@@ -35,7 +59,7 @@
                     "endOffset": 114
                 },
                 "from": {
-                    "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-xlarge-land/values-xlarge-land.xml",
+                    "file": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-xlarge-land/values-xlarge-land.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,

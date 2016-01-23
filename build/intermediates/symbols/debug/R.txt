@@ -663,8 +663,9 @@ int drawable ic_info_outline_24dp_selector 0x7f02005d
 int drawable my_location 0x7f02005e
 int drawable my_location_bearing 0x7f02005f
 int drawable my_location_stale 0x7f020060
-int drawable notification_template_icon_bg 0x7f020062
-int drawable roundedbutton 0x7f020061
+int drawable notification_template_icon_bg 0x7f020063
+int drawable report_problem 0x7f020061
+int drawable roundedbutton 0x7f020062
 int id action0 0x7f0e008c
 int id action_bar 0x7f0e005d
 int id action_bar_activity_content 0x7f0e0000

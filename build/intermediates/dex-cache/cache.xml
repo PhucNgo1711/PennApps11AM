@@ -1,2 +1,159 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
+
+    <item
+        jar="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_2af13b91f3aa6a0f9d0ebd4b412dd26ecbfe296b.jar" />
+    </item>
+    <item
+        jar="/Users/akshay/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.0.1/b34c1f2d993044656e87f88970b6818e99e886ba/okhttp-3.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b34c1f2d993044656e87f88970b6818e99e886ba">
+        <dex dex="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/pre-dexed/debug/okhttp-3.0.1_910e47cfae12f228ef1a45fb0d560de3994cc55c.jar" />
+    </item>
+    <item
+        jar="/Users/akshay/.gradle/caches/modules-2/files-2.1/com.mapzen.android/lost/1.0.1/5f807d0be6ca894f6ae0007e884099793b2c8633/lost-1.0.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5f807d0be6ca894f6ae0007e884099793b2c8633">
+        <dex dex="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/pre-dexed/debug/lost-1.0.1_004aeabf58384090a707f896e8b8a06a167e2c8a.jar" />
+    </item>
+    <item
+        jar="/Users/akshay/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-databind/2.4.0/473e063d6396a1ff6e4b9c7943e604291ce18b07/jackson-databind-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="473e063d6396a1ff6e4b9c7943e604291ce18b07">
+        <dex dex="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/pre-dexed/debug/jackson-databind-2.4.0_fffef5c875b5c3b79de259d743ead324580e105b.jar" />
+    </item>
+    <item
+        jar="/Users/akshay/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-annotations/2.4.0/d6a66c7a5f01cf500377bd669507a08cfeba882a/jackson-annotations-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d6a66c7a5f01cf500377bd669507a08cfeba882a">
+        <dex dex="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/pre-dexed/debug/jackson-annotations-2.4.0_d5405f74dbfa1943550ff1fab0a7090638ecebee.jar" />
+    </item>
+    <item
+        jar="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/soundhound.android/speex/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6de73f4fe9cb23e03d2baed8b5586ea4e1fa45eb">
+        <dex dex="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/pre-dexed/debug/soundhound.android-speex-1.3.0_83cb378b72f6729d44baa5e91c277e8cd43b75c8.jar" />
+    </item>
+    <item
+        jar="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="09c5e804bc67fc0580360043dff067df574a60d4">
+        <dex dex="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.1.1_cda104189a305e1b9bce17a81013473dc92b03dd.jar" />
+    </item>
+    <item
+        jar="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/hound.android/hound-sdk/0.2.15/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="7b10f2bd9c5cf76dd93b7af0dc07551621f29d71">
+        <dex dex="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/pre-dexed/debug/hound.android-hound-sdk-0.2.15_2b11ffb74b12ebb54152227b2e52e7e0c0a96ede.jar" />
+    </item>
+    <item
+        jar="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/PennApps11AM/volley/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="65e5172d074658f78bb5ab8a41f9f00bc76b9f93">
+        <dex dex="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/pre-dexed/debug/PennApps11AM-volley-unspecified_c74971d513f5e3862e31dfdc7193f32a13b848dd.jar" />
+    </item>
+    <item
+        jar="/Users/akshay/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpclient-android/4.3.5.1/eecbb0b998e77629862a13d957d552b3be58fc4e/httpclient-android-4.3.5.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="eecbb0b998e77629862a13d957d552b3be58fc4e">
+        <dex dex="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/pre-dexed/debug/httpclient-android-4.3.5.1_1354df19b5b0108d6c2eae2eb0f95e15852887b8.jar" />
+    </item>
+    <item
+        jar="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_1997f489b29ec1471ff2cfc2f3c44093e8d6db76.jar" />
+    </item>
+    <item
+        jar="/Users/akshay/.gradle/caches/modules-2/files-2.1/hound.android/java-utils/1.0.0/3d712040e34d671352b908c204f7a256ac25e466/java-utils-1.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3d712040e34d671352b908c204f7a256ac25e466">
+        <dex dex="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/pre-dexed/debug/java-utils-1.0.0_e7fdb36d37c4c4ecd12a884a91c46d09beb98b39.jar" />
+    </item>
+    <item
+        jar="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/design/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="379471b2bd17d9737c050345c08e8c7d16589784">
+        <dex dex="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/pre-dexed/debug/com.android.support-design-23.1.1_ef3c8e40d43b276206f672358ed0ff55c21567c6.jar" />
+    </item>
+    <item
+        jar="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_2078ed71562802d1ff07f84a95ca6756636679c9.jar" />
+    </item>
+    <item
+        jar="/Users/akshay/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/pre-dexed/debug/okhttp-2.4.0_86b4450ece8941acbaa65f27303b2e45cfecd4e1.jar" />
+    </item>
+    <item
+        jar="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/hound.android/phrasespotter/1.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="33738b1cf00a75c1f505003712064d3ddfcd158e">
+        <dex dex="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/pre-dexed/debug/hound.android-phrasespotter-1.4.0_0c892ecf49adeb88283856cf4f73841dcb57669c.jar" />
+    </item>
+    <item
+        jar="/Users/akshay/.gradle/caches/modules-2/files-2.1/com.koushikdutta.async/androidasync/2.1.2/38ff23022839229e8923a7b2d4ec6650aa338513/androidasync-2.1.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="38ff23022839229e8923a7b2d4ec6650aa338513">
+        <dex dex="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/pre-dexed/debug/androidasync-2.1.2_a541570a97c8b2cccae3fcfd06b3143fded07b42.jar" />
+    </item>
+    <item
+        jar="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d0fa12efc32d795cea71c66f1def6fccea85338a">
+        <dex dex="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/pre-dexed/debug/com.mapbox.mapboxsdk-mapbox-android-sdk-3.1.0_6c07ad49e843abdb1b60ad02511210134e1319eb.jar" />
+    </item>
+    <item
+        jar="/Users/akshay/.gradle/caches/modules-2/files-2.1/com.fasterxml.jackson.core/jackson-core/2.4.0/1e33fd4cca6c4a9bf3d2f638cabb504a5b5c989d/jackson-core-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1e33fd4cca6c4a9bf3d2f638cabb504a5b5c989d">
+        <dex dex="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/pre-dexed/debug/jackson-core-2.4.0_b912d88d2b10d3b20a90e7c5fec6836987d60894.jar" />
+    </item>
+    <item
+        jar="/Users/akshay/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_752b4c7f09e0a2f51b69f1ef4cf4942032057c83.jar" />
+    </item>
+    <item
+        jar="/Users/akshay/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/pre-dexed/debug/okio-1.6.0_81247c3154bb04a0afb47cae031162372b12afb3.jar" />
+    </item>
+    <item
+        jar="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/soundhound.android/vad/1.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c04c0a9a236a8e0ce12bf684fd62ba601174603">
+        <dex dex="/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/pre-dexed/debug/soundhound.android-vad-1.2.0_80b6c0e599fd44352a617a2f81e35416b2058355.jar" />
+    </item>
+
+</items>
