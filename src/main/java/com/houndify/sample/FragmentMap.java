@@ -38,10 +38,6 @@ import org.json.JSONObject;
  * Created by PhucNgo on 1/23/16.
  */
 public class FragmentMap extends Fragment {
-    public FragmentMap() {
-
-    }
-
     MapView mapView;
     static RequestQueue queue;
 
@@ -52,7 +48,7 @@ public class FragmentMap extends Fragment {
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
 
-        View v = inflater.inflate(R.layout.fragment_main, container, false);
+        View v = inflater.inflate(R.layout.fragment_map, container, false);
         mapView = (MapView) v.findViewById(R.id.mapboxMapView);
         mapView.setStyleUrl(Style.MAPBOX_STREETS);
         mapView.setZoomLevel(11);

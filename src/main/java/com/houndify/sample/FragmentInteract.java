@@ -36,16 +36,17 @@ public class FragmentInteract extends Fragment {
     TextToSpeechMgr textToSpeechMgr;
     MainActivity mainActivity;
 
-    public FragmentInteract(MainActivity mainActivity, TextView textView) {
+    public FragmentInteract(MainActivity mainActivity) {
         this.mainActivity = mainActivity;
-        this.textView = textView;
     }
 
     @Override
-    public void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
+    public View onCreateView(LayoutInflater inflater, ViewGroup container,
+                             Bundle savedInstanceState) {
+        View v =  inflater.inflate(R.layout.fragment_interact, container, false);
 
-
+        // Text view for displaying written result
+        textView = (TextView)v.findViewById(R.id.textView);
 
         // Setup TextToSpeech
         textToSpeechMgr = new TextToSpeechMgr( mainActivity);
@@ -56,13 +57,9 @@ public class FragmentInteract extends Fragment {
         Houndify.get(mainActivity.getApplicationContext()).setRequestInfoFactory(StatefulRequestInfoFactory.get(mainActivity.getApplicationContext()));
 
         startPhraseSpotting();
-    }
 
-    @Override
-    public View onCreateView(LayoutInflater inflater, ViewGroup container,
-                             Bundle savedInstanceState) {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_interact, container, false);
+        return v;
     }
 
     @Override

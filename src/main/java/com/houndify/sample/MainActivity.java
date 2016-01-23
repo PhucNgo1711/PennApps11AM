@@ -33,8 +33,6 @@ import java.util.List;
 import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
-    private TextView textView;
-
     private Toolbar toolbar;
     private TabLayout tabLayout;
     private ViewPager viewPager;
@@ -50,9 +48,6 @@ public class MainActivity extends AppCompatActivity {
         // The activity_main layout contains the com.hound.android.fd.HoundifyButton which is displayed
         // as the black microphone. When press it will load the HoundifyVoiceSearchActivity.
         setContentView(R.layout.activity_main);
-
-        // Text view for displaying written result
-        textView = (TextView)findViewById(R.id.textView);
 
         toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
@@ -71,7 +66,7 @@ public class MainActivity extends AppCompatActivity {
     private void setupViewPager(ViewPager viewPager) {
         ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
         adapter.addFragment(new FragmentMap(), "Map");
-        adapter.addFragment(new FragmentInteract(this, textView), "TWO");
+        adapter.addFragment(new FragmentInteract(this), "TWO");
         viewPager.setAdapter(adapter);
     }
 

@@ -14,7 +14,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:gravity="top|left"
-            android:text="Awaiting search"
+            android:text=""
             android:textIsSelectable="true" />
 
     </ScrollView>
@@ -22,7 +22,7 @@
     <com.hound.android.fd.HoundifyButton
         android:id="@+id/button"
         android:background="@drawable/roundedbutton"
-        android:layout_marginRight="120dp"
+        android:layout_marginRight="125dp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center" />
