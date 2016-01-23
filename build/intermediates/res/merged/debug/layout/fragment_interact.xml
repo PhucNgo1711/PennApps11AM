@@ -1,0 +1,30 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="info.androidhive.materialtabs.fragments.OneFragment">
+
+    <ScrollView
+        android:layout_width="wrap_content"
+        android:layout_height="10dp"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="top|left"
+            android:text="Awaiting search"
+            android:textIsSelectable="true" />
+
+    </ScrollView>
+
+    <com.hound.android.fd.HoundifyButton
+        android:id="@+id/button"
+        android:background="@drawable/roundedbutton"
+        android:layout_marginRight="120dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center" />
+
+</LinearLayout>
