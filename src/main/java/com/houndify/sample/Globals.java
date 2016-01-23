@@ -10,5 +10,5 @@ public class Globals {
     public static ArrayList<News> crimes = new ArrayList<News>();
 
     public static int pageCount = 0;
-    public static final int maxPages = 4;
+    public static final int maxPages = 2;
 }

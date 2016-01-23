@@ -1,7 +1,10 @@
 package com.houndify.sample;
 
 import android.app.Activity;
+import android.content.Context;
 import android.content.Intent;
+import android.hardware.Sensor;
+import android.hardware.SensorManager;
 import android.location.Location;
 import android.location.LocationListener;
 import android.os.Bundle;
@@ -37,10 +40,16 @@ public class MainActivity extends AppCompatActivity {
     private TabLayout tabLayout;
     private ViewPager viewPager;
 
+    public static MainActivity instance;
+
     public Runner runner = new Runner(this);
     public Runner getRunner(){
         return this.runner;
     }
+
+    AccelListener acelListener;
+    SensorManager mSensorManager;
+    Sensor mAccelerometer;
 
     @Override
     protected void onCreate(final Bundle savedInstanceState) {
@@ -48,19 +57,28 @@ public class MainActivity extends AppCompatActivity {
         // The activity_main layout contains the com.hound.android.fd.HoundifyButton which is displayed
         // as the black microphone. When press it will load the HoundifyVoiceSearchActivity.
         setContentView(R.layout.activity_main);
+        instance = this;
 
         toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
+        ((CustomViewPager)findViewById(R.id.viewpager)).setPagingEnabled(false);
         viewPager = (ViewPager) findViewById(R.id.viewpager);
         setupViewPager(viewPager);
 
         tabLayout = (TabLayout) findViewById(R.id.tabs);
         tabLayout.setupWithViewPager(viewPager);
 
-        runner.Run();
+        mSensorManager = (SensorManager) getSystemService(Context.SENSOR_SERVICE);
+        mAccelerometer = mSensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER);
+
+        acelListener = new AccelListener();
+
+        mSensorManager.registerListener(acelListener, mAccelerometer, SensorManager.SENSOR_DELAY_NORMAL);
+
+        //runner.Run();
     }
 
     private void setupViewPager(ViewPager viewPager) {

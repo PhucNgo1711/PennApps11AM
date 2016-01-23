@@ -51,7 +51,7 @@ public class FragmentMap extends Fragment {
         View v = inflater.inflate(R.layout.fragment_map, container, false);
         mapView = (MapView) v.findViewById(R.id.mapboxMapView);
         mapView.setStyleUrl(Style.MAPBOX_STREETS);
-        mapView.setZoomLevel(11);
+        mapView.setZoomLevel(14);
         mapView.onCreate(savedInstanceState);
 
         mapView.setCenterCoordinate(new LatLng(39.952271, -75.191273));
@@ -118,7 +118,7 @@ public class FragmentMap extends Fragment {
         // Add the request to the RequestQueue.
         queue.add(stringRequest);
 
-        getCrimes("https://api.everyblock.com/content/philly/topnews/?schema=crime&token=2882c513284b03351c39cb893825a3afad37e6e1");
+        getCrimes("https://api.everyblock.com/content/philly/locations/19104/timeline/?schema=crime&token=2882c513284b03351c39cb893825a3afad37e6e1");
     }
 
     void getCrimes(String url){
