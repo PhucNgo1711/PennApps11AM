@@ -636,7 +636,11 @@ class MyLocationListener implements LocationListener {
         lon = loc.getLongitude();
         lat = loc.getLatitude();
 
-        for (EmergencyNews newsItem : Globals.emergencies) {
+        EmergencyNews extraExtra = new EmergencyNews("2219380", "Snow emergency in effect for Philadelphia", "Philadelphia",
+                new LatLng(lat, lon), "A snow emergency went into effect for Philadelphia at 9 p.m. on Friday night. That means all parked cars must be moved off snow emergency routes. LINK: See the list of snow emergency routes Because of the snow emergency, parking at Philadelphia Parking Authority garages will be $5 starting at 5 p.m.");
+        Globals.emergencies.add(extraExtra);
+
+        for(EmergencyNews newsItem : Globals.emergencies) {
             float[] results = new float[1];
             Location.distanceBetween(lat, lon, newsItem.coords.getLatitude(), newsItem.coords.getLongitude(), results);
             if (results[0] <= 1000) {
