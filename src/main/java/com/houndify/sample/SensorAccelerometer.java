@@ -64,8 +64,8 @@ public class SensorAccelerometer implements SensorEventListener {
 //        float mAccel = mAccel * 0.9f + mAccelCurrent * 0.1f;
 
         if (mAccel > 100) {
-            String curLat = MyLocationListener.getLat();
-            String curLong = MyLocationListener.getLon();
+//            String curLat = MyLocationListener.getLat();
+//            String curLong = MyLocationListener.getLon();
 
             Contact contact = new Contact(mainActivity);
             List<Person> contactList = contact.getContactList();

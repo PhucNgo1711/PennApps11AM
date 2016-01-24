@@ -2690,8 +2690,9 @@ containing a value of this type.
         public static final int my_location=0x7f02005e;
         public static final int my_location_bearing=0x7f02005f;
         public static final int my_location_stale=0x7f020060;
-        public static final int notification_template_icon_bg=0x7f020062;
-        public static final int roundedbutton=0x7f020061;
+        public static final int notification_template_icon_bg=0x7f020063;
+        public static final int report_problem=0x7f020061;
+        public static final int roundedbutton=0x7f020062;
     }
     public static final class id {
         public static final int action0=0x7f0e008c;

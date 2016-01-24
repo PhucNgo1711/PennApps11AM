@@ -64,7 +64,9 @@ public class AccelListener implements SensorEventListener {
 
         if (shakeCount == shakesNeeded) {
             //It's a shake! Do Something!
+
             Toast.makeText(MainActivity.instance, "Wanna panic? Just shake it off.", Toast.LENGTH_SHORT).show();
+
         }
     }
 

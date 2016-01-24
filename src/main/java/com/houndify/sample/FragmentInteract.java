@@ -36,9 +36,11 @@ public class FragmentInteract extends Fragment {
     TextToSpeechMgr textToSpeechMgr;
     MainActivity mainActivity;
 
-    public FragmentInteract(MainActivity mainActivity) {
-        this.mainActivity = mainActivity;
-    }
+//    public FragmentInteract(){}
+//
+//    public FragmentInteract(MainActivity mainActivity) {
+//        this.mainActivity = mainActivity;
+//    }
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
@@ -55,8 +57,6 @@ public class FragmentInteract extends Fragment {
         Houndify.get(getContext()).setClientId(Constants.CLIENT_ID);
         Houndify.get(getContext()).setClientKey(Constants.CLIENT_KEY);
         Houndify.get(getContext()).setRequestInfoFactory(StatefulRequestInfoFactory.get(getContext()));
-
-        startPhraseSpotting();
 
         // Inflate the layout for this fragment
         return v;
@@ -76,6 +76,9 @@ public class FragmentInteract extends Fragment {
             phraseSpotterReader = new PhraseSpotterReader(new SimpleAudioByteStreamSource());
             phraseSpotterReader.setListener( phraseSpotterListener );
             phraseSpotterReader.start();
+
+            //Stop sending SMSs when the Houndify microphone pops up
+            MainActivity.stopSMSThread();
         }
     }
 

@@ -63,15 +63,15 @@ public final class R {
 		public static final int houndify_button = 0x7f02005a;
 	}
 	public static final class id {
-		public static final int content_root = 0x7f0e007a;
-		public static final int iv_abort_search = 0x7f0e007f;
-		public static final int pulse_view = 0x7f0e0081;
+		public static final int content_root = 0x7f0e0078;
+		public static final int iv_abort_search = 0x7f0e007d;
+		public static final int pulse_view = 0x7f0e007f;
 		public static final int search_button = 0x7f0e0062;
-		public static final int search_content_area = 0x7f0e007b;
-		public static final int search_panel = 0x7f0e0080;
-		public static final int search_text_area = 0x7f0e007c;
-		public static final int tv_live_transcription = 0x7f0e007e;
-		public static final int tv_search_status = 0x7f0e007d;
+		public static final int search_content_area = 0x7f0e0079;
+		public static final int search_panel = 0x7f0e007e;
+		public static final int search_text_area = 0x7f0e007a;
+		public static final int tv_live_transcription = 0x7f0e007c;
+		public static final int tv_search_status = 0x7f0e007b;
 	}
 	public static final class layout {
 		public static final int houndify_activity_voice = 0x7f04002b;
