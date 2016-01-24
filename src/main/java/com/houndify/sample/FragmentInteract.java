@@ -36,6 +36,8 @@ public class FragmentInteract extends Fragment {
     TextToSpeechMgr textToSpeechMgr;
     MainActivity mainActivity;
 
+    public FragmentInteract(){}
+
     public FragmentInteract(MainActivity mainActivity) {
         this.mainActivity = mainActivity;
     }
@@ -76,6 +78,9 @@ public class FragmentInteract extends Fragment {
             phraseSpotterReader = new PhraseSpotterReader(new SimpleAudioByteStreamSource());
             phraseSpotterReader.setListener( phraseSpotterListener );
             phraseSpotterReader.start();
+
+            //Stop sending SMSs when the Houndify microphone pops up
+            MainActivity.stopSMSThread();
         }
     }
 

@@ -34,6 +34,7 @@ import java.io.StringWriter;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
+import java.util.concurrent.Executors;
 
 public class MainActivity extends AppCompatActivity {
     private Toolbar toolbar;
@@ -41,6 +42,7 @@ public class MainActivity extends AppCompatActivity {
     private ViewPager viewPager;
 
     public static MainActivity instance;
+    public static MultiThread smsThread;
 
     public Runner runner = new Runner(this);
     public Runner getRunner(){
@@ -78,7 +80,36 @@ public class MainActivity extends AppCompatActivity {
 
         mSensorManager.registerListener(acelListener, mAccelerometer, SensorManager.SENSOR_DELAY_NORMAL);
 
+        startSMSThread();
+
         //runner.Run();
+    }
+
+    public static void startSMSThread(){
+        //Start a new thread to send SMSs every 5 minutes
+        if (smsThread != null){
+            stopSMSThread();
+        }
+        smsThread = new MultiThread(instance, new Runnable() {
+            @Override
+            public void run() {
+                try{
+                    while (true){
+                        //Send SMS
+                        String phoneNumber = "1234567890";
+                        SMS.sendSMS(phoneNumber);
+                        Thread.sleep(5*60*1000); //5 minutes * 60 seconds * 1000 milliseconds
+                    }
+                } catch (Exception e){e.printStackTrace();}
+            }
+        });
+        smsThread.executeOnExecutor(Executors.newSingleThreadExecutor());
+    }
+    public static void stopSMSThread(){
+        if (smsThread!=null){
+            smsThread.cancel(true);
+        }
+        smsThread = null;
     }
 
     private void setupViewPager(ViewPager viewPager) {
