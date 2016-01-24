@@ -438,6 +438,8 @@ public class MainActivity extends AppCompatActivity {
         queue.add(stringRequest);
 
         getCrimes("https://api.everyblock.com/content/philly/locations/19104/timeline/?schema=crime&token=2882c513284b03351c39cb893825a3afad37e6e1");
+        getEmergencies("https://api.everyblock.com/content/philly/locations/19104/timeline/?schema=news-articles&token=2882c513284b03351c39cb893825a3afad37e6e1");
+        Toast.makeText(this, "This map shows nearby crimes and emergencies. Please be safe!", Toast.LENGTH_SHORT).show();
     }
 
     void getCrimes(String url) {
@@ -592,6 +594,10 @@ class MyLocationListener implements LocationListener {
     public void onLocationChanged(Location loc) {
         lon = loc.getLongitude();
         lat = loc.getLatitude();
+
+        EmergencyNews extraExtra = new EmergencyNews("2219380", "Snow emergency in effect for Philadelphia", "Philadelphia",
+                new LatLng(lat, lon), "A snow emergency went into effect for Philadelphia at 9 p.m. on Friday night. That means all parked cars must be moved off snow emergency routes. LINK: See the list of snow emergency routes Because of the snow emergency, parking at Philadelphia Parking Authority garages will be $5 starting at 5 p.m.");
+        Globals.emergencies.add(extraExtra);
 
         for(EmergencyNews newsItem : Globals.emergencies) {
             float[] results = new float[1];
