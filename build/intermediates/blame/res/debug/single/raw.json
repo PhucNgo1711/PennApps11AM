@@ -2,9 +2,32 @@
     {
         "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/raw/houndify_start.wav",
         "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/hound.android/hound-sdk/0.2.15/res/raw/houndify_start.wav"
+<<<<<<< HEAD
     },
     {
         "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/raw/houndify_stop.wav",
         "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/hound.android/hound-sdk/0.2.15/res/raw/houndify_stop.wav"
+=======
+    },
+    {
+        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/raw/houndify_start.wav",
+        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/hound.android/hound-sdk/0.2.15/res/raw/houndify_start.wav"
+    },
+    {
+        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/raw/houndify_stop.wav",
+        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/hound.android/hound-sdk/0.2.15/res/raw/houndify_stop.wav"
+    },
+    {
+        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/raw/houndify_stop.wav",
+        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/hound.android/hound-sdk/0.2.15/res/raw/houndify_stop.wav"
+    },
+    {
+        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/raw/houndify_start.wav",
+        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/hound.android/hound-sdk/0.2.15/res/raw/houndify_start.wav"
+    },
+    {
+        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/raw/houndify_stop.wav",
+        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/hound.android/hound-sdk/0.2.15/res/raw/houndify_stop.wav"
+>>>>>>> fc2903afc491a7e0581763aa7a7bfc9ac7fd9573
     }
 ]

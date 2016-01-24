@@ -17,6 +17,7 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Toast;
 
 import com.android.volley.Request;
 import com.android.volley.RequestQueue;
@@ -119,6 +120,7 @@ public class FragmentMap extends Fragment {
         queue.add(stringRequest);
 
         getCrimes("https://api.everyblock.com/content/philly/locations/19104/timeline/?schema=crime&token=2882c513284b03351c39cb893825a3afad37e6e1");
+        getEmergencies("https://api.everyblock.com/content/philly/locations/19104/timeline/?schema=news-articles&token=2882c513284b03351c39cb893825a3afad37e6e1");
     }
 
     void getCrimes(String url){
@@ -194,62 +196,62 @@ public class FragmentMap extends Fragment {
         
         // Request a string response from the provided URL.
         StringRequest stringRequest2 = new StringRequest(Request.Method.GET, url2,
-                                                         new Response.Listener<String>() {
-                                                             @Override
-                                                             public void onResponse(String response) {
-                                                                 Log.e("YO", "Emergencies being downloaded!");
-                                                                 // Display the first 500 characters of the response string.
-                                                                 try {
-                                                                     Log.e("YO", "response2" + response);
-                                                                     JSONObject a = new JSONObject(response);
-                                                                     Object nextLink = a.get("next");
-                                                                     
-                                                                     JSONArray res = (JSONArray)a.get("results");
-                                                                     
-                                                                     for (int i = 0; i < res.length(); i++) {
-                                                                         JSONObject cur = res.getJSONObject(i);
-                                                                         if(cur.getString("title").toLowerCase().contains("emergency")){
-                                                                             //String id, String title, String location_name, LatLng coords
-                                                                             JSONObject rawCoords = ((JSONArray) cur.get("location_coordinates")).getJSONObject(0);
-                                                                             LatLng coords = new LatLng(rawCoords.getDouble("latitude"), rawCoords.getDouble("longitude"));
-                                                                             EmergencyNews extraExtra = new EmergencyNews(cur.getString("id"), cur.getString("title"), cur.getString("location_name"),
-                                                                                                                          coords, cur.getString("description"));
-                                                                             Globals.emergencies.add(extraExtra);
-                                                                         }
-                                                                     }
-                                                                     
-                                                                     /** Use SpriteFactory, Drawable, and Sprite to load our marker icon
-                                                                      * and assign it to a marker */
-                                                                     IconFactory iconFactory = mapView.getIconFactory();
-                                                                     Drawable drawable = ContextCompat.getDrawable(getActivity(), R.drawable.report_problem);
-                                                                     Icon icon = iconFactory.fromDrawable(drawable);
-                                                                     
-                                                                     for (EmergencyNews n : Globals.emergencies){
-                                                                         mapView.addMarker(new MarkerOptions()
-                                                                                           .position(n.coords)
-                                                                                           .title(n.title)
-                                                                                           .snippet(n.desc)
-                                                                                           .icon(icon));
-                                                                     }
-                                                                     
-                                                                     System.out.println("size2 = "+res.length());
-                                                                     
-                                                                     System.out.println("NextLink = "+nextLink);
-                                                                     if (nextLink != null && Globals.pageCount < Globals.maxPages) {
-                                                                         Log.e("YO","Calling GetEmergencies on " + nextLink);
-                                                                         getEmergencies("https" + nextLink.toString().substring(4));
-                                                                     }
-                                                                     
-                                                                 } catch(Exception e){
-                                                                     System.out.println("you made a boo boo");
-                                                                     e.printStackTrace();}
-                                                             }
-                                                         }, new Response.ErrorListener() {
-                                                             @Override
-                                                             public void onErrorResponse(VolleyError error) {
-                                                                 System.out.println("That didn't work because "+error);
-                                                             }
-                                                         });
+             new Response.Listener<String>() {
+                 @Override
+                 public void onResponse(String response) {
+                     Log.e("YO", "Emergencies being downloaded!");
+                     // Display the first 500 characters of the response string.
+                     try {
+                         Log.e("YO", "response2" + response);
+                         JSONObject a = new JSONObject(response);
+                         Object nextLink = a.get("next");
+
+                         JSONArray res = (JSONArray)a.get("results");
+
+                         for (int i = 0; i < res.length(); i++) {
+                             JSONObject cur = res.getJSONObject(i);
+                             if(cur.getString("title").toLowerCase().contains("emergency")){
+                                 //String id, String title, String location_name, LatLng coords
+                                 JSONObject rawCoords = ((JSONArray) cur.get("location_coordinates")).getJSONObject(0);
+                                 LatLng coords = new LatLng(rawCoords.getDouble("latitude"), rawCoords.getDouble("longitude"));
+                                 EmergencyNews extraExtra = new EmergencyNews(cur.getString("id"), cur.getString("title"), cur.getString("location_name"),
+                                                                              coords, cur.getString("description"));
+                                 Globals.emergencies.add(extraExtra);
+                             }
+                         }
+
+                         /** Use SpriteFactory, Drawable, and Sprite to load our marker icon
+                          * and assign it to a marker */
+                         IconFactory iconFactory = mapView.getIconFactory();
+                         Drawable drawable = ContextCompat.getDrawable(getActivity(), R.drawable.report_problem);
+                         Icon icon = iconFactory.fromDrawable(drawable);
+
+                         for (EmergencyNews n : Globals.emergencies){
+                             mapView.addMarker(new MarkerOptions()
+                                               .position(n.coords)
+                                               .title(n.title)
+                                               .snippet(n.desc)
+                                               .icon(icon));
+                         }
+
+                         System.out.println("size2 = "+res.length());
+
+                         System.out.println("NextLink = "+nextLink);
+                         if (nextLink != null && Globals.pageCount < Globals.maxPages) {
+                             Log.e("YO","Calling GetEmergencies on " + nextLink);
+                             getEmergencies("https" + nextLink.toString().substring(4));
+                         }
+
+                     } catch(Exception e){
+                         System.out.println("you made a boo boo");
+                         e.printStackTrace();}
+                 }
+             }, new Response.ErrorListener() {
+                 @Override
+                 public void onErrorResponse(VolleyError error) {
+                     System.out.println("That didn't work because "+error);
+                 }
+        });
         
         System.out.println("Adding StringRequest2 to queue");
         queue.add(stringRequest2);

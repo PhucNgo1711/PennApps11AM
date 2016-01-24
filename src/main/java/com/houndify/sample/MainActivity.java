@@ -22,6 +22,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.util.Log;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.android.volley.Request;
 import com.android.volley.RequestQueue;
@@ -589,8 +590,20 @@ class MyLocationListener implements LocationListener {
 
     @Override
     public void onLocationChanged(Location loc) {
+<<<<<<< HEAD
         lon = loc.getLongitude();
         lat = loc.getLatitude();
+=======
+        lon = Double.toString(loc.getLongitude());
+        lat = Double.toString(loc.getLatitude());
+        for(EmergencyNews newsItem : Globals.emergencies) {
+            float[] results = new float[1];
+            Location.distanceBetween(loc.getLatitude(), loc.getLongitude(), newsItem.coords.getLatitude(), newsItem.coords.getLongitude(), results);
+            if (results[0]<=1000) {
+                Toast.makeText(MainActivity.instance, "An emergency has occurred near you.  Mark yourself as safe by saying 'I'm okay'", Toast.LENGTH_SHORT).show();
+            }
+        }
+>>>>>>> fc2903afc491a7e0581763aa7a7bfc9ac7fd9573
     }
 
     @Override

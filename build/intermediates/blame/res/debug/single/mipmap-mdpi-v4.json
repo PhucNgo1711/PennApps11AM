@@ -1,6 +1,17 @@
 [
     {
+<<<<<<< HEAD
+=======
+        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+>>>>>>> fc2903afc491a7e0581763aa7a7bfc9ac7fd9573
         "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
         "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/mipmap-mdpi-v4/ic_launcher.png",
+        "source": "/Users/akshay/Documents/Programming/PennApps11AM/src/main/res/mipmap-mdpi/ic_launcher.png"
     }
 ]
