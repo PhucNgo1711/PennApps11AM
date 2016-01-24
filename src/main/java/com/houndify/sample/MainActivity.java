@@ -1,18 +1,22 @@
 package com.houndify.sample;
 
+import android.Manifest;
 import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
+import android.content.pm.PackageManager;
 import android.graphics.drawable.Drawable;
 import android.hardware.Sensor;
 import android.hardware.SensorManager;
 import android.location.Location;
 import android.location.LocationListener;
+import android.location.LocationManager;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Looper;
 import android.speech.tts.TextToSpeech;
 import android.support.design.widget.TabLayout;
+import android.support.v4.app.ActivityCompat;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
@@ -99,6 +103,23 @@ public class MainActivity extends AppCompatActivity {
 //        tabLayout = (TabLayout) findViewById(R.id.tabs);
 //        tabLayout.setupWithViewPager(viewPager);
 
+        LocationManager locationManager = (LocationManager) getSystemService(Context.LOCATION_SERVICE);
+        if (!(locationManager.isProviderEnabled(LocationManager.GPS_PROVIDER))) {
+        }
+
+        LocationListener locationListener = new MyLocationListener(this);
+        if (ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
+            // TODO: Consider calling
+            //    ActivityCompat#requestPermissions
+            // here to request the missing permissions, and then overriding
+            //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
+            //                                          int[] grantResults)
+            // to handle the case where the user grants the permission. See the documentation
+            // for ActivityCompat#requestPermissions for more details.
+            return;
+        }
+        locationManager.requestLocationUpdates(LocationManager.GPS_PROVIDER, 5000, 10, locationListener);
+
         mapView = (MapView) findViewById(R.id.mapboxMapView);
         mapView.setStyleUrl(Style.MAPBOX_STREETS);
         mapView.setZoomLevel(14);
@@ -130,15 +151,29 @@ public class MainActivity extends AppCompatActivity {
 
         mSensorManager.registerListener(acelListener, mAccelerometer, SensorManager.SENSOR_DELAY_NORMAL);
 
+//        while (!acelListener.startSMS) {
+//            String tmp = "";
+//        }
+
+
+//        String tmp = "";
+
         startSMSThread();
 
-        //runner.Run();
+        Toast.makeText(MainActivity.instance, "An emergency has occurred near you.  Mark yourself as safe by saying 'I'm okay'", Toast.LENGTH_LONG).show();
     }
 
     @Override
     protected void onResume() {
         super.onResume();
+
         startPhraseSpotting();
+
+//        while (!acelListener.startSMS) {
+//            String tmp = "";
+//        }
+//
+//        String tmp = "";
     }
 
     /**
@@ -257,8 +292,12 @@ public class MainActivity extends AppCompatActivity {
                     String intentValue = matchedItemNode.findValue("Intent").textValue();
 
                     if (intentValue.equals("Okay")) {
+                        SMS.SendSMS("4258925977", "This phone owner is currently safe at 39.952271, -75.191273");
+                        stopSMSThread();
                         textToSpeechMgr.speak("Great to hear that you are safe.");
                     } else if (intentValue.equals("Help")) {
+                        SMS.SendSMS("4258925977", "Request immediate rescue. This phone owner is in danger at 39.952271, -75.191273");
+                        stopSMSThread();
                         textToSpeechMgr.speak("Help is on the way!");
 
                     }
@@ -329,12 +368,14 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void run() {
                 try {
+                    Thread.sleep(1 * 60 * 1000); // minutes * 60 seconds * 1000 milliseconds
+
                     while (true) {
                         //Send SMS
-                        String phoneNumber = "1234567890";
-                        SMS.SendSMS(phoneNumber);
+                        String phoneNumber = "4258925977";
+                        SMS.SendSMS("4258925977", "This phone owner is under an extreme situation at 39.952271, -75.191273");
 
-                        Thread.sleep(5 * 60 * 1000); //5 minutes * 60 seconds * 1000 milliseconds
+                        Thread.sleep(1 * 30 * 1000); // minutes * 60 seconds * 1000 milliseconds
                     }
                 } catch (Exception e) {
                     e.printStackTrace();
@@ -603,7 +644,7 @@ class MyLocationListener implements LocationListener {
         for(EmergencyNews newsItem : Globals.emergencies) {
             float[] results = new float[1];
             Location.distanceBetween(lat, lon, newsItem.coords.getLatitude(), newsItem.coords.getLongitude(), results);
-            if (results[0]<=1000) {
+            if (results[0] <= 1000) {
                 Toast.makeText(MainActivity.instance, "An emergency has occurred near you.  Mark yourself as safe by saying 'I'm okay'", Toast.LENGTH_SHORT).show();
             }
         }

@@ -47,9 +47,11 @@ public class AccelListener implements SensorEventListener {
     /* Has a shaking motion been started (one direction) */
     private boolean shakeInitiated = false;
 
+    public static boolean startSMS = false;
+
     public AccelListener() { }
 
-    private void executeShakeAction() { //Shake it off
+    public void executeShakeAction() { //Shake it off
         System.out.println("Detected a micro-shake");
 
         Date now = new Date();
@@ -65,8 +67,8 @@ public class AccelListener implements SensorEventListener {
         if (shakeCount == shakesNeeded) {
             //It's a shake! Do Something!
 
-            Toast.makeText(MainActivity.instance, "Wanna panic? Just shake it off.", Toast.LENGTH_SHORT).show();
-
+            startSMS = true;
+            Toast.makeText(MainActivity.instance, "Phone is under extreme vibration!", Toast.LENGTH_LONG).show();
         }
     }
 

@@ -9,9 +9,8 @@ public class SMS {
 
     }
 
-    public static void SendSMS(String phoneNo) {
+    public static void SendSMS(String phoneNo, String sms) {
         try {
-            String sms = "Ayyy";
             SmsManager smsManager = SmsManager.getDefault();
             smsManager.sendTextMessage(phoneNo, null, sms, null, null);
 //            Toast.makeText(getApplicationContext(), "SMS Sent!", Toast.LENGTH_LONG).show();
