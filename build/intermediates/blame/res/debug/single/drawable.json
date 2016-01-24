@@ -1,39 +1,31 @@
 [
     {
-<<<<<<< HEAD
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_track_material.xml"
-=======
         "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
         "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_light.xml"
     },
     {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_track_material.xml"
+        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_spinner_textfield_background_material.xml"
     },
     {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_light.xml"
+        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_borderless_material.xml"
     },
     {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/report_problem.png",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/src/main/res/drawable/report_problem.png"
+        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/ic_info_outline_24dp_selector.xml",
+        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/drawable/ic_info_outline_24dp_selector.xml"
     },
     {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_edit_text_material.xml"
+        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_textfield_search_material.xml"
     },
     {
         "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
         "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_default_mtrl_shape.xml"
     },
     {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_default_mtrl_shape.xml"
+        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_edit_text_material.xml"
     },
     {
         "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/houndify_btn_search_listening_state.xml",
@@ -44,308 +36,92 @@
         "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_check_material.xml"
     },
     {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_tab_indicator_material.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/houndify_btn_search_listening_state.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/hound.android/hound-sdk/0.2.15/res/drawable/houndify_btn_search_listening_state.xml"
-    },
-    {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/report_problem.png",
-        "source": "/Users/akshay/Documents/Programming/PennApps11AM/src/main/res/drawable/report_problem.png"
-    },
-    {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_switch_thumb_material.xml"
->>>>>>> fc2903afc491a7e0581763aa7a7bfc9ac7fd9573
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_switch_thumb_material.xml"
-    },
-    {
-<<<<<<< HEAD
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_borderless_material.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/report_problem.png",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/src/main/res/drawable/report_problem.png"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_snackbar_background.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_check_material.xml"
-=======
-        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
-        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_dark.xml"
-    },
-    {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
-        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_light.xml"
-    },
-    {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_borderless_material.xml"
-    },
-    {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_ratingbar_full_material.xml"
-    },
-    {
-        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_text_cursor_material.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_dark.xml"
-    },
-    {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/houndify_button.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/hound.android/hound-sdk/0.2.15/res/drawable/houndify_button.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_check_material.xml"
-    },
-    {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/bg_default_selector.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/drawable/bg_default_selector.xml"
-    },
-    {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/ic_info_outline_24dp_selector.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/drawable/ic_info_outline_24dp_selector.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_radio_material.xml"
-    },
-    {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/ic_info_outline_24dp_selector.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/drawable/ic_info_outline_24dp_selector.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_dark.xml"
     },
     {
         "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
         "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_tab_indicator_material.xml"
     },
     {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_top_material.xml"
->>>>>>> fc2903afc491a7e0581763aa7a7bfc9ac7fd9573
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-<<<<<<< HEAD
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_default_mtrl_shape.xml"
-=======
-        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/bg_default_selector.xml",
-        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/drawable/bg_default_selector.xml"
-    },
-    {
-        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
-        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_fab_background.xml"
-    },
-    {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_snackbar_background.xml"
-    },
-    {
-        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/circle.xml",
-        "source": "/Users/akshay/Documents/Programming/PennApps11AM/src/main/res/drawable/circle.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/roundedbutton.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/src/main/res/drawable/roundedbutton.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_ratingbar_full_material.xml"
-    },
-    {
-        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
-    },
-    {
-        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
-        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_ratingbar_full_material.xml"
-    },
-    {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_top_material.xml"
->>>>>>> fc2903afc491a7e0581763aa7a7bfc9ac7fd9573
-    },
-    {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_textfield_search_material.xml"
-    },
-    {
-<<<<<<< HEAD
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/ic_info_outline_24dp_selector.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/drawable/ic_info_outline_24dp_selector.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_spinner_textfield_background_material.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_tab_indicator_material.xml"
-=======
-        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/roundedbutton.xml",
-        "source": "/Users/akshay/Documents/Programming/PennApps11AM/src/main/res/drawable/roundedbutton.xml"
-    },
-    {
-        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
-        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/blue_marble.png",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/src/main/res/drawable/blue_marble.png"
-    },
-    {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/roundedbutton.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/src/main/res/drawable/roundedbutton.xml"
-    },
-    {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/blue_marble.png",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/src/main/res/drawable/blue_marble.png"
-    },
-    {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_default_mtrl_shape.xml"
->>>>>>> fc2903afc491a7e0581763aa7a7bfc9ac7fd9573
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_borderless_material.xml"
-    },
-    {
-<<<<<<< HEAD
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_top_material.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/bg_default_selector.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/drawable/bg_default_selector.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_internal_bg.xml"
-=======
-        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
-        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_borderless_material.xml"
-    },
-    {
-        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/ic_info_outline_24dp_selector.xml",
-        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/drawable/ic_info_outline_24dp_selector.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_fab_background.xml"
-    },
-    {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/circle.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/src/main/res/drawable/circle.xml"
-    },
-    {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_internal_bg.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/bg_default_selector.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/drawable/bg_default_selector.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_light.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_text_cursor_material.xml"
+        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_light.xml"
     },
     {
         "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/houndify_button.xml",
         "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/hound.android/hound-sdk/0.2.15/res/drawable/houndify_button.xml"
     },
     {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/bg_default_selector.xml",
+        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/drawable/bg_default_selector.xml"
     },
     {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_dark.xml"
+        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/circle.xml",
+        "source": "/Users/akshay/Documents/Programming/PennApps11AM/src/main/res/drawable/circle.xml"
+    },
+    {
+        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/report_problem.png",
+        "source": "/Users/akshay/Documents/Programming/PennApps11AM/src/main/res/drawable/report_problem.png"
+    },
+    {
+        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
+        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/roundedbutton.xml",
+        "source": "/Users/akshay/Documents/Programming/PennApps11AM/src/main/res/drawable/roundedbutton.xml"
+    },
+    {
+        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
+        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/blue_marble.png",
+        "source": "/Users/akshay/Documents/Programming/PennApps11AM/src/main/res/drawable/blue_marble.png"
     },
     {
         "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
         "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_snackbar_background.xml"
     },
     {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_dark.xml"
+        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
+        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_track_material.xml"
     },
     {
         "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
@@ -358,168 +134,5 @@
     {
         "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
         "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_dark.xml"
->>>>>>> fc2903afc491a7e0581763aa7a7bfc9ac7fd9573
-    },
-    {
-        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_spinner_textfield_background_material.xml"
-    },
-    {
-<<<<<<< HEAD
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_light.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_text_cursor_material.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_light.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/roundedbutton.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/src/main/res/drawable/roundedbutton.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_ratingbar_full_material.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_ratingbar_full_material.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_switch_thumb_material.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/circle.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/src/main/res/drawable/circle.xml"
-=======
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_light.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_light.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_snackbar_background.xml"
-    },
-    {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_text_cursor_material.xml"
-    },
-    {
-        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_textfield_search_material.xml"
-    },
-    {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_radio_material.xml"
-    },
-    {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_check_material.xml"
-    },
-    {
-        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_edit_text_material.xml"
-    },
-    {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_spinner_textfield_background_material.xml"
->>>>>>> fc2903afc491a7e0581763aa7a7bfc9ac7fd9573
-    },
-    {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_internal_bg.xml"
-    },
-    {
-<<<<<<< HEAD
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_edit_text_material.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_fab_background.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_dark.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background_dark.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_dialog_material_background_dark.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_textfield_search_material.xml"
-=======
-        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
-        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_list_selector_holo_light.xml"
-    },
-    {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/houndify_btn_search_listening_state.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/hound.android/hound-sdk/0.2.15/res/drawable/houndify_btn_search_listening_state.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_item_background_holo_light.xml"
-    },
-    {
-        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
-        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_cab_background_internal_bg.xml"
-    },
-    {
-        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
-        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_thumb_material.xml"
-    },
-    {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_tab_indicator_material.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable/houndify_button.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/hound.android/hound-sdk/0.2.15/res/drawable/houndify_button.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/circle.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/src/main/res/drawable/circle.xml"
-    },
-    {
-        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/blue_marble.png",
-        "source": "/Users/akshay/Documents/Programming/PennApps11AM/src/main/res/drawable/blue_marble.png"
-    },
-    {
-        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
-        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_btn_colored_material.xml"
-    },
-    {
-        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
-        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_seekbar_track_material.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/drawable/abc_edit_text_material.xml"
-    },
-    {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/drawable/design_fab_background.xml"
->>>>>>> fc2903afc491a7e0581763aa7a7bfc9ac7fd9573
     }
 ]

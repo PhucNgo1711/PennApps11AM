@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/houndify-sdk-sample-0.2.16.iml" filepath="$PROJECT_DIR$/houndify-sdk-sample-0.2.16.iml" />
-      <module fileurl="file://$PROJECT_DIR$/volley/volley.iml" filepath="$PROJECT_DIR$/volley/volley.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PennApps11AM.iml" filepath="$PROJECT_DIR$/PennApps11AM.iml" />
       <module fileurl="file://$PROJECT_DIR$/volley/volley.iml" filepath="$PROJECT_DIR$/volley/volley.iml" />
     </modules>
   </component>

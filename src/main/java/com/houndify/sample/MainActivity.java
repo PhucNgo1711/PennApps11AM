@@ -590,20 +590,15 @@ class MyLocationListener implements LocationListener {
 
     @Override
     public void onLocationChanged(Location loc) {
-<<<<<<< HEAD
         lon = loc.getLongitude();
         lat = loc.getLatitude();
-=======
-        lon = Double.toString(loc.getLongitude());
-        lat = Double.toString(loc.getLatitude());
         for(EmergencyNews newsItem : Globals.emergencies) {
             float[] results = new float[1];
-            Location.distanceBetween(loc.getLatitude(), loc.getLongitude(), newsItem.coords.getLatitude(), newsItem.coords.getLongitude(), results);
+            Location.distanceBetween(lat, lon, newsItem.coords.getLatitude(), newsItem.coords.getLongitude(), results);
             if (results[0]<=1000) {
                 Toast.makeText(MainActivity.instance, "An emergency has occurred near you.  Mark yourself as safe by saying 'I'm okay'", Toast.LENGTH_SHORT).show();
             }
         }
->>>>>>> fc2903afc491a7e0581763aa7a7bfc9ac7fd9573
     }
 
     @Override
