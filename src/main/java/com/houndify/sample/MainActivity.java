@@ -260,6 +260,7 @@ public class MainActivity extends AppCompatActivity {
                         textToSpeechMgr.speak("Great to hear that you are safe.");
                     } else if (intentValue.equals("Help")) {
                         textToSpeechMgr.speak("Help is on the way!");
+
                     }
                 }
             }
