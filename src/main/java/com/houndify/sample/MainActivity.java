@@ -65,6 +65,7 @@ public class MainActivity extends AppCompatActivity {
     private ViewPager viewPager;
     MapView mapView;
     static RequestQueue queue;
+    public static Toast emergencyToast;
 
     public Runner runner = new Runner(this);
 
@@ -131,7 +132,7 @@ public class MainActivity extends AppCompatActivity {
         Drawable drawable = ContextCompat.getDrawable(this, R.drawable.blue_marble);
         Icon icon = iconFactory.fromDrawable(drawable);
         mapView.addMarker(new MarkerOptions()
-                .position(new LatLng(39.952271, -75.191273))
+                .position(new LatLng(39.950948, -75.193969))
                 .icon(icon));
 
         queryEveryBlock();
@@ -160,7 +161,9 @@ public class MainActivity extends AppCompatActivity {
 
         startSMSThread();
 
-        Toast.makeText(MainActivity.instance, "An emergency has occurred near you.  Mark yourself as safe by saying 'I'm okay'", Toast.LENGTH_LONG).show();
+        if (emergencyToast == null)
+            emergencyToast = Toast.makeText(MainActivity.instance, "An emergency has occurred near you.  Mark yourself as safe by saying 'I'm okay'", Toast.LENGTH_SHORT);
+        emergencyToast.show();
     }
 
     @Override
