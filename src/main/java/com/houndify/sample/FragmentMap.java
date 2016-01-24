@@ -17,6 +17,7 @@ import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Toast;
 
 import com.android.volley.Request;
 import com.android.volley.RequestQueue;
@@ -119,6 +120,7 @@ public class FragmentMap extends Fragment {
         queue.add(stringRequest);
 
         getCrimes("https://api.everyblock.com/content/philly/locations/19104/timeline/?schema=crime&token=2882c513284b03351c39cb893825a3afad37e6e1");
+        getEmergencies("https://api.everyblock.com/content/philly/locations/19104/timeline/?schema=news-articles&token=2882c513284b03351c39cb893825a3afad37e6e1");
     }
 
     void getCrimes(String url){
