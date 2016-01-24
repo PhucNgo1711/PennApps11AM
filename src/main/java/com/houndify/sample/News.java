@@ -27,4 +27,6 @@ public class News {
         this.location_name = location_name;
         this.coords = coords;
     }
+    
+    public News(){}
 }
