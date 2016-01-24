@@ -4,9 +4,12 @@ import android.hardware.Sensor;
 import android.hardware.SensorEvent;
 import android.hardware.SensorEventListener;
 import android.hardware.SensorManager;
-import android.util.FloatMath;
 import android.widget.TextView;
 import android.widget.Toast;
+
+import java.util.List;
+import android.os.Handler;
+
 
 /**
  * Created by PhucNgo on 1/22/16.
@@ -14,21 +17,23 @@ import android.widget.Toast;
 public class SensorAccelerometer implements SensorEventListener {
 
     private Context context;
+    private MainActivity mainActivity;
     private SensorManager sensorManager;
     private Sensor accelerometer;
     private TextView timelabel;
+    private Handler handler;
 
     private float mLastX, mLastY, mLastZ, mAccelLast, mAccelCurrent, mAccel;
     private final float NOISE = (float) 3.0;
 
-    public SensorAccelerometer(Context context) {
+    public SensorAccelerometer(Context context, MainActivity mainActivity) {
         // TODO Auto-generated constructor stub
-
+        this.mainActivity = mainActivity;
         this.context = context;
 
+        handler = new Handler();
         initialiseSensor();
     }
-
 
     public void initialiseSensor() {
         sensorManager = (SensorManager) context.getSystemService(Context.SENSOR_SERVICE);
@@ -59,7 +64,20 @@ public class SensorAccelerometer implements SensorEventListener {
 //        float mAccel = mAccel * 0.9f + mAccelCurrent * 0.1f;
 
         if (mAccel > 100) {
-            String tmp = "";
+            String curLat = MyLocationListener.getLat();
+            String curLong = MyLocationListener.getLon();
+
+            Contact contact = new Contact(mainActivity);
+            List<Person> contactList = contact.getContactList();
+
+            for (Person person : contactList) {
+                Runnable runnable = new RepeatSMS(contactList, handler);
+
+                new Thread(runnable).start();
+
+                //        SMS sms = new SMS();
+                //        sms.SendSMS("4136954636");
+            }
         }
     }
 }

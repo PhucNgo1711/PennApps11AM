@@ -23,7 +23,7 @@ public class StatefulRequestInfoFactory extends DefaultRequestInfoFactory {
 
     public static StatefulRequestInfoFactory get(final Context context) {
         if (instance == null) {
-            instance= new StatefulRequestInfoFactory(context);
+            instance = new StatefulRequestInfoFactory(context);
         }
         return instance;
     }
@@ -57,25 +57,21 @@ public class StatefulRequestInfoFactory extends DefaultRequestInfoFactory {
          * other variations on these phases.
          */
 
-        /** Uncomment for Client Match demo --------------------------------------------
         ArrayList<ClientMatch> clientMatchList = new ArrayList<>();
 
         // client match 1
         ClientMatch clientMatch1 = new ClientMatch();
-        clientMatch1.setExpression("([1/100 (\"can\"|\"could\"|\"will\"|\"would\").\"you\"].[1/10 \"please\"].(\"turn\"|\"switch\"|(1/100 \"flip\")).\"on\".[\"the\"].(\"light\"|\"lights\").[1/20 \"for\".\"me\"].[1/20 \"please\"]) \n" +
-                "| \n" +
-                "([1/100 (\"can\"|\"could\"|\"will\"|\"would\").\"you\"].[1/10 \"please\"].[100 (\"turn\"|\"switch\"|(1/100 \"flip\"))].[\"the\"].(\"light\"|\"lights\").\"on\".[1/20 \"for\".\"me\"].[1/20 \"please\"]) \n" +
-                "| \n" +
-                "(((\"i\".(\"want\"|\"like\"))|(((\"i\".[\"would\"])|(\"i'd\")).(\"like\"|\"want\"))).[\"the\"].(\"light\"|\"lights\").[\"turned\"|\"switched\"|(\"to\".\"go\")|(1/100\"flipped\")].\"on\".[1/20\"please\"]) ");
+        clientMatch1.setExpression("(\"i'm\"|\"everything's\"|\"things're\").(\"safe\"|\"okay\"|\"alright\"|\"fine\")");
+//        clientMatch1.setExpression("\"i'm okay\"");
 
-        clientMatch1.setSpokenResponse("Ok, I'm turning the lights on.");
-        clientMatch1.setSpokenResponseLong("Ok, I am turning the lights on.");
-        clientMatch1.setWrittenResponse("Ok, I'm turning the lights on.");
-        clientMatch1.setWrittenResponseLong("Ok, I am turning the lights on.");
+        clientMatch1.setSpokenResponse("Ok, I'll tell your friends and family.");
+        clientMatch1.setSpokenResponseLong("Ok, I'll send text messages to your friends and family.");
+        clientMatch1.setWrittenResponse("Ok, I'll tell your friends and family.");
+        clientMatch1.setWrittenResponseLong("Ok, I'll send text messages to your friends and family.");
 
         final JsonNodeFactory nodeFactory = JsonNodeFactory.instance;
         ObjectNode result1Node = nodeFactory.objectNode();
-        result1Node.put("Intent", "TURN_LIGHT_ON");
+        result1Node.put("Intent", "Okay");
         clientMatch1.setResult(result1Node);
 
         // add first client match data to the array/list
@@ -83,19 +79,15 @@ public class StatefulRequestInfoFactory extends DefaultRequestInfoFactory {
 
         // client match 2
         ClientMatch clientMatch2 = new ClientMatch();
-        clientMatch2.setExpression("([1/100 (\"can\"|\"could\"|\"will\"|\"would\").\"you\"].[1/10 \"please\"].(\"turn\"|\"switch\"|(1/100 \"flip\")).\"off\".[\"the\"].(\"light\"|\"lights\").[1/20 \"for\".\"me\"].[1/20 \"please\"]) \n" +
-                "| \n" +
-                "([1/100 (\"can\"|\"could\"|\"will\"|\"would\").\"you\"].[1/10 \"please\"].[100 (\"turn\"|\"switch\"|(1/100 \"flip\"))].[\"the\"].(\"light\"|\"lights\").\"off\".[1/20 \"for\".\"me\"].[1/20 \"please\"]) \n" +
-                "| \n" +
-                "(((\"i\".(\"want\"|\"like\"))|(((\"i\".[\"would\"])|(\"i'd\")).(\"like\"|\"want\"))).[\"the\"].(\"light\"|\"lights\").[\"turned\"|\"switched\"|(\"to\".\"go\")|(1/100\"flipped\")].\"off\".[1/20\"please\"]) ");
-
-        clientMatch2.setSpokenResponse("Ok, I'm turning the lights off.");
-        clientMatch2.setSpokenResponseLong("Ok, I am turning the lights off.");
-        clientMatch2.setWrittenResponse("Ok, I'm turning the lights off.");
-        clientMatch2.setWrittenResponseLong("Ok, I am turning the lights off.");
+        clientMatch2.setExpression("(\"i need help\"|\"help me\").[\"please\"]");
+//        clientMatch2.setExpression("\"i need help\"");
+        clientMatch2.setSpokenResponse("Ok, I'll find help.");
+        clientMatch2.setSpokenResponseLong("Ok, I'll tell your friends and family to get help.");
+        clientMatch2.setWrittenResponse("Ok, I'll find help.");
+        clientMatch2.setWrittenResponseLong("Ok, I'll tell your friends and family to get help.");
 
         ObjectNode result2Node = nodeFactory.objectNode();
-        result2Node.put("Intent", "TURN_LIGHT_OFF");
+        result2Node.put("Intent", "Help");
         clientMatch2.setResult(result2Node);
 
         // add next client match data to the array/list
@@ -106,7 +98,6 @@ public class StatefulRequestInfoFactory extends DefaultRequestInfoFactory {
 
         // add the list of matches to the request info object
         requestInfo.setClientMatches(clientMatchList);
-        ------------------------------------end of Client Match demo code */
 
         return requestInfo;
     }

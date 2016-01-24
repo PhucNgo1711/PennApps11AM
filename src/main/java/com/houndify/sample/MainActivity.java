@@ -1,7 +1,10 @@
 package com.houndify.sample;
 
 import android.app.Activity;
+import android.content.Context;
 import android.content.Intent;
+import android.hardware.Sensor;
+import android.hardware.SensorManager;
 import android.location.Location;
 import android.location.LocationListener;
 import android.os.Bundle;
@@ -31,6 +34,7 @@ import java.io.StringWriter;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
+import java.util.concurrent.Executors;
 
 public class MainActivity extends AppCompatActivity {
     private Toolbar toolbar;
@@ -42,25 +46,70 @@ public class MainActivity extends AppCompatActivity {
         return this.runner;
     }
 
+    public static MainActivity instance;
+    public static MultiThread smsThread;
+
+    AccelListener acelListener;
+    SensorManager mSensorManager;
+    Sensor mAccelerometer;
+
     @Override
     protected void onCreate(final Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         // The activity_main layout contains the com.hound.android.fd.HoundifyButton which is displayed
         // as the black microphone. When press it will load the HoundifyVoiceSearchActivity.
         setContentView(R.layout.activity_main);
+        instance = this;
 
         toolbar = (Toolbar) findViewById(R.id.toolbar);
         setSupportActionBar(toolbar);
 
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
+        ((CustomViewPager)findViewById(R.id.viewpager)).setPagingEnabled(false);
         viewPager = (ViewPager) findViewById(R.id.viewpager);
         setupViewPager(viewPager);
 
         tabLayout = (TabLayout) findViewById(R.id.tabs);
         tabLayout.setupWithViewPager(viewPager);
 
-        runner.Run();
+        mSensorManager = (SensorManager) getSystemService(Context.SENSOR_SERVICE);
+        mAccelerometer = mSensorManager.getDefaultSensor(Sensor.TYPE_ACCELEROMETER);
+
+        acelListener = new AccelListener();
+
+        mSensorManager.registerListener(acelListener, mAccelerometer, SensorManager.SENSOR_DELAY_NORMAL);
+
+        startSMSThread();
+
+        //runner.Run();
+    }
+
+    public static void startSMSThread(){
+        //Start a new thread to send SMSs every 5 minutes
+        if (smsThread != null){
+            stopSMSThread();
+        }
+        smsThread = new MultiThread(instance, new Runnable() {
+            @Override
+            public void run() {
+                try{
+                    while (true){
+                        //Send SMS
+                        String phoneNumber = "1234567890";
+                        SMS.SendSMS(phoneNumber);
+                        Thread.sleep(5*60*1000); //5 minutes * 60 seconds * 1000 milliseconds
+                    }
+                } catch (Exception e){e.printStackTrace();}
+            }
+        });
+        smsThread.executeOnExecutor(Executors.newSingleThreadExecutor());
+    }
+    public static void stopSMSThread(){
+        if (smsThread!=null){
+            smsThread.cancel(true);
+        }
+        smsThread = null;
     }
 
     private void setupViewPager(ViewPager viewPager) {

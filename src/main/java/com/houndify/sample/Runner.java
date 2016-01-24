@@ -10,15 +10,7 @@ public class Runner {
     }
 
     public void Run() {
-        SensorAccelerometer sensorAccelerometer = new SensorAccelerometer(mainActivity.getApplicationContext());
+        SensorAccelerometer sensorAccelerometer = new SensorAccelerometer(mainActivity.getApplicationContext(), mainActivity);
 
-        String curLat = MyLocationListener.getLat();
-        String curLong = MyLocationListener.getLon();
-
-        Contact contact = new Contact(mainActivity);
-        contact.getContactList();
-
-//        SMS sms = new SMS();
-//        sms.SendSMS("4136954636");
     }
 }

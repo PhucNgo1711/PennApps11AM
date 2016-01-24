@@ -9,7 +9,7 @@ public class SMS {
 
     }
 
-    public void SendSMS(String phoneNo) {
+    public static void SendSMS(String phoneNo) {
         try {
             String sms = "Ayyy";
             SmsManager smsManager = SmsManager.getDefault();

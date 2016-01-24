@@ -49,12 +49,12 @@ public class FragmentInteract extends Fragment {
         textView = (TextView)v.findViewById(R.id.textView);
 
         // Setup TextToSpeech
-        textToSpeechMgr = new TextToSpeechMgr( mainActivity);
+        textToSpeechMgr = new TextToSpeechMgr( getActivity());
 
         // Normally you'd only have to do this once in your Application#onCreate
-        Houndify.get(mainActivity.getApplicationContext()).setClientId(Constants.CLIENT_ID);
-        Houndify.get(mainActivity.getApplicationContext()).setClientKey(Constants.CLIENT_KEY);
-        Houndify.get(mainActivity.getApplicationContext()).setRequestInfoFactory(StatefulRequestInfoFactory.get(mainActivity.getApplicationContext()));
+        Houndify.get(getContext()).setClientId(Constants.CLIENT_ID);
+        Houndify.get(getContext()).setClientKey(Constants.CLIENT_KEY);
+        Houndify.get(getContext()).setRequestInfoFactory(StatefulRequestInfoFactory.get(getContext()));
 
         startPhraseSpotting();
 
@@ -113,7 +113,7 @@ public class FragmentInteract extends Fragment {
                 public void run() {
                     stopPhraseSpotting();
                     // Now start the HoundifyVoiceSearchActivity to begin the search.
-                    Houndify.get( mainActivity.getApplicationContext() ).voiceSearch(mainActivity);
+                    Houndify.get( getActivity() ).voiceSearch(getActivity());
                 }
             });
         }
@@ -135,7 +135,7 @@ public class FragmentInteract extends Fragment {
         super.onActivityResult(requestCode, resultCode, data);
 
         if (requestCode == Houndify.REQUEST_CODE) {
-            final HoundSearchResult result = Houndify.get(mainActivity.getApplicationContext()).fromActivityResult(resultCode, data);
+            final HoundSearchResult result = Houndify.get(getContext()).fromActivityResult(resultCode, data);
 
             if (result.hasResult()) {
                 onResponse( result.getResponse() );
@@ -157,9 +157,15 @@ public class FragmentInteract extends Fragment {
     private void onResponse(final HoundResponse response) {
         if (response.getResults().size() > 0) {
             // Required for conversational support
-            StatefulRequestInfoFactory.get(mainActivity.getApplicationContext()).setConversationState(response.getResults().get(0).getConversationState());
+            StatefulRequestInfoFactory.get(getContext()).setConversationState(response.getResults().get(0).getConversationState());
 
-            textView.setText("Received response\n\n" + response.getResults().get(0).getWrittenResponse());
+            try {
+                textView.setText("Received response\n\n" + response.getResults().get(0).getActionSucceedResponse().getWrittenResponse());
+            }
+            catch (Exception ex) {
+                textView.setText("Received response\n\n" + response.getResults().get(0).getWrittenResponse());
+            }
+
             textToSpeechMgr.speak(response.getResults().get(0).getSpokenResponse());
 
             /**
@@ -179,11 +185,11 @@ public class FragmentInteract extends Fragment {
                     JsonNode matchedItemNode = commandResult.getJsonNode().findValue("MatchedItem");
                     String intentValue = matchedItemNode.findValue( "Intent").textValue();
 
-                    if ( intentValue.equals("TURN_LIGHT_ON") ) {
-                        textToSpeechMgr.speak("Client match TURN LIGHT ON successful");
+                    if ( intentValue.equals("Okay") ) {
+                        textToSpeechMgr.speak("Great to hear that you are safe.");
                     }
-                    else if ( intentValue.equals("TURN_LIGHT_OFF") ) {
-                        textToSpeechMgr.speak("Client match TURN LIGHT OFF successful");
+                    else if ( intentValue.equals("Help") ) {
+                        textToSpeechMgr.speak("Help is on the way!");
                     }
                 }
             }
@@ -241,7 +247,7 @@ public class FragmentInteract extends Fragment {
          * @param textToSpeak
          */
         public void speak( String textToSpeak ) {
-            textToSpeech.speak(textToSpeak, TextToSpeech.QUEUE_ADD, null);
+            textToSpeech.speak(textToSpeak, TextToSpeech.QUEUE_ADD, null, null);
         }
     }
 }
