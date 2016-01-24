@@ -19,6 +19,7 @@ import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.widget.TextView;
+import android.widget.Toast;
 
 import com.fasterxml.jackson.databind.JsonNode;
 import com.hound.android.fd.HoundSearchResult;
@@ -170,6 +171,13 @@ class MyLocationListener implements LocationListener {
     public void onLocationChanged(Location loc) {
         lon = Double.toString(loc.getLongitude());
         lat = Double.toString(loc.getLatitude());
+        for(EmergencyNews newsItem : Globals.emergencies) {
+            float[] results = new float[1];
+            Location.distanceBetween(loc.getLatitude(), loc.getLongitude(), newsItem.coords.getLatitude(), newsItem.coords.getLongitude(), results);
+            if (results[0]<=1000) {
+                Toast.makeText(MainActivity.instance, "An emergency has occurred near you.  Mark yourself as safe by saying 'I'm okay'", Toast.LENGTH_SHORT).show();
+            }
+        }
     }
 
     @Override

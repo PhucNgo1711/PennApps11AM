@@ -1,26 +1,26 @@
 [
     {
-        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_info_outline_24dp_selected.xml",
-        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/drawable-anydpi-v21/ic_info_outline_24dp_selected.xml"
-    },
-    {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_info_outline_24dp_selected.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/drawable-anydpi-v21/ic_info_outline_24dp_selected.xml"
+        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_info_outline_24dp.xml",
+        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/drawable-anydpi-v21/ic_info_outline_24dp.xml"
     },
     {
         "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_info_outline_24dp_selected.xml",
         "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/drawable-anydpi-v21/ic_info_outline_24dp_selected.xml"
     },
     {
+        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_info_outline_24dp.xml",
+        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/drawable-anydpi-v21/ic_info_outline_24dp.xml"
+    },
+    {
         "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_info_outline_24dp.xml",
         "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/drawable-anydpi-v21/ic_info_outline_24dp.xml"
     },
     {
-        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_info_outline_24dp.xml",
-        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/drawable-anydpi-v21/ic_info_outline_24dp.xml"
+        "merged": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_info_outline_24dp_selected.xml",
+        "source": "/Users/dkukreja/Box Sync/Coding Projects/PennApps11AM/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/drawable-anydpi-v21/ic_info_outline_24dp_selected.xml"
     },
     {
-        "merged": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_info_outline_24dp.xml",
-        "source": "/Users/akshay/Documents/Programming/PennApps11AM/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/drawable-anydpi-v21/ic_info_outline_24dp.xml"
+        "merged": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/res/merged/debug/drawable-anydpi-v21/ic_info_outline_24dp_selected.xml",
+        "source": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/drawable-anydpi-v21/ic_info_outline_24dp_selected.xml"
     }
 ]
