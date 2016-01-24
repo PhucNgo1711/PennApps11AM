@@ -23,7 +23,7 @@ public class MultiThread extends AsyncTask<Void,Integer,Void> {
 
     @Override
     protected Void doInBackground(Void... params) {
-        parent.runOnUiThread(runnable);
+        runnable.run();
         return null;
     }
 
