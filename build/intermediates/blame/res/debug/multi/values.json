@@ -4940,9 +4940,9 @@
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 115,
+                        "startOffset": 116,
                         "endColumn": 134,
-                        "endOffset": 245
+                        "endOffset": 246
                     }
                 }
             },
@@ -4959,9 +4959,9 @@
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
-                        "startOffset": 62,
+                        "startOffset": 63,
                         "endColumn": 52,
-                        "endOffset": 110
+                        "endOffset": 111
                     }
                 }
             },
@@ -4970,8 +4970,8 @@
                     "startLine": 317,
                     "startColumn": 4,
                     "startOffset": 44369,
-                    "endColumn": 45,
-                    "endOffset": 44410
+                    "endColumn": 46,
+                    "endOffset": 44411
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/src/main/res/values/strings.xml",
@@ -4979,8 +4979,8 @@
                         "startLine": 1,
                         "startColumn": 4,
                         "startOffset": 16,
-                        "endColumn": 45,
-                        "endOffset": 57
+                        "endColumn": 46,
+                        "endOffset": 58
                     }
                 }
             },
@@ -4988,9 +4988,9 @@
                 "to": {
                     "startLine": 318,
                     "startColumn": 4,
-                    "startOffset": 44415,
+                    "startOffset": 44416,
                     "endColumn": 144,
-                    "endOffset": 44555
+                    "endOffset": 44556
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -5007,9 +5007,9 @@
                 "to": {
                     "startLine": 319,
                     "startColumn": 4,
-                    "startOffset": 44560,
+                    "startOffset": 44561,
                     "endColumn": 70,
-                    "endOffset": 44626
+                    "endOffset": 44627
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/values/values.xml",
@@ -5026,9 +5026,9 @@
                 "to": {
                     "startLine": 320,
                     "startColumn": 4,
-                    "startOffset": 44631,
+                    "startOffset": 44632,
                     "endColumn": 114,
-                    "endOffset": 44741
+                    "endOffset": 44742
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/values/values.xml",
@@ -5045,9 +5045,9 @@
                 "to": {
                     "startLine": 321,
                     "startColumn": 4,
-                    "startOffset": 44746,
+                    "startOffset": 44747,
                     "endColumn": 86,
-                    "endOffset": 44828
+                    "endOffset": 44829
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -5064,9 +5064,9 @@
                 "to": {
                     "startLine": 322,
                     "startColumn": 4,
-                    "startOffset": 44833,
+                    "startOffset": 44834,
                     "endColumn": 108,
-                    "endOffset": 44937
+                    "endOffset": 44938
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/values/values.xml",
@@ -5083,9 +5083,9 @@
                 "to": {
                     "startLine": 323,
                     "startColumn": 4,
-                    "startOffset": 44942,
+                    "startOffset": 44943,
                     "endColumn": 66,
-                    "endOffset": 45004
+                    "endOffset": 45005
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/hound.android/hound-sdk/0.2.15/res/values/values.xml",
@@ -5102,9 +5102,9 @@
                 "to": {
                     "startLine": 324,
                     "startColumn": 4,
-                    "startOffset": 45009,
+                    "startOffset": 45010,
                     "endColumn": 63,
-                    "endOffset": 45068
+                    "endOffset": 45069
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/hound.android/hound-sdk/0.2.15/res/values/values.xml",
@@ -5121,9 +5121,9 @@
                 "to": {
                     "startLine": 325,
                     "startColumn": 4,
-                    "startOffset": 45073,
+                    "startOffset": 45074,
                     "endColumn": 53,
-                    "endOffset": 45122
+                    "endOffset": 45123
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/values/values.xml",
@@ -5140,9 +5140,9 @@
                 "to": {
                     "startLine": 326,
                     "startColumn": 4,
-                    "startOffset": 45127,
+                    "startOffset": 45128,
                     "endColumn": 61,
-                    "endOffset": 45184
+                    "endOffset": 45185
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/values/values.xml",
@@ -5159,9 +5159,9 @@
                 "to": {
                     "startLine": 327,
                     "startColumn": 4,
-                    "startOffset": 45189,
+                    "startOffset": 45190,
                     "endColumn": 49,
-                    "endOffset": 45234
+                    "endOffset": 45235
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/values/values.xml",
@@ -5178,9 +5178,9 @@
                 "to": {
                     "startLine": 328,
                     "startColumn": 4,
-                    "startOffset": 45239,
+                    "startOffset": 45240,
                     "endColumn": 73,
-                    "endOffset": 45308
+                    "endOffset": 45309
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/values/values.xml",
@@ -5197,9 +5197,9 @@
                 "to": {
                     "startLine": 329,
                     "startColumn": 4,
-                    "startOffset": 45313,
+                    "startOffset": 45314,
                     "endColumn": 70,
-                    "endOffset": 45379
+                    "endOffset": 45380
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5216,9 +5216,9 @@
                 "to": {
                     "startLine": 330,
                     "startColumn": 4,
-                    "startOffset": 45384,
+                    "startOffset": 45385,
                     "endColumn": 69,
-                    "endOffset": 45449
+                    "endOffset": 45450
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/values/values.xml",
@@ -5235,9 +5235,9 @@
                 "to": {
                     "startLine": 331,
                     "startColumn": 4,
-                    "startOffset": 45454,
+                    "startOffset": 45455,
                     "endColumn": 75,
-                    "endOffset": 45525
+                    "endOffset": 45526
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/values/values.xml",
@@ -5254,9 +5254,9 @@
                 "to": {
                     "startLine": 332,
                     "startColumn": 4,
-                    "startOffset": 45530,
+                    "startOffset": 45531,
                     "endColumn": 71,
-                    "endOffset": 45597
+                    "endOffset": 45598
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/values/values.xml",
@@ -5273,9 +5273,9 @@
                 "to": {
                     "startLine": 333,
                     "startColumn": 4,
-                    "startOffset": 45602,
+                    "startOffset": 45603,
                     "endColumn": 82,
-                    "endOffset": 45680
+                    "endOffset": 45681
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/values/values.xml",
@@ -5292,9 +5292,9 @@
                 "to": {
                     "startLine": 334,
                     "startColumn": 4,
-                    "startOffset": 45685,
+                    "startOffset": 45686,
                     "endColumn": 79,
-                    "endOffset": 45760
+                    "endOffset": 45761
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/values/values.xml",
@@ -5311,9 +5311,9 @@
                 "to": {
                     "startLine": 335,
                     "startColumn": 4,
-                    "startOffset": 45765,
+                    "startOffset": 45766,
                     "endColumn": 94,
-                    "endOffset": 45855
+                    "endOffset": 45856
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/values/values.xml",
@@ -5330,9 +5330,9 @@
                 "to": {
                     "startLine": 336,
                     "startColumn": 4,
-                    "startOffset": 45860,
+                    "startOffset": 45861,
                     "endColumn": 77,
-                    "endOffset": 45933
+                    "endOffset": 45934
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5349,9 +5349,9 @@
                 "to": {
                     "startLine": 337,
                     "startColumn": 4,
-                    "startOffset": 45938,
+                    "startOffset": 45939,
                     "endColumn": 89,
-                    "endOffset": 46023
+                    "endOffset": 46024
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5368,9 +5368,9 @@
                 "to": {
                     "startLine": 338,
                     "startColumn": 4,
-                    "startOffset": 46028,
+                    "startOffset": 46029,
                     "endColumn": 87,
-                    "endOffset": 46111
+                    "endOffset": 46112
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5387,9 +5387,9 @@
                 "to": {
                     "startLine": 339,
                     "startColumn": 4,
-                    "startOffset": 46116,
+                    "startOffset": 46117,
                     "endColumn": 95,
-                    "endOffset": 46207
+                    "endOffset": 46208
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5406,10 +5406,10 @@
                 "to": {
                     "startLine": 340,
                     "startColumn": 4,
-                    "startOffset": 46212,
+                    "startOffset": 46213,
                     "endLine": 345,
                     "endColumn": 12,
-                    "endOffset": 46526
+                    "endOffset": 46527
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/src/main/res/values/styles.xml",
@@ -5427,9 +5427,9 @@
                 "to": {
                     "startLine": 346,
                     "startColumn": 4,
-                    "startOffset": 46531,
+                    "startOffset": 46532,
                     "endColumn": 89,
-                    "endOffset": 46616
+                    "endOffset": 46617
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/src/main/res/values/styles.xml",
@@ -5446,10 +5446,10 @@
                 "to": {
                     "startLine": 347,
                     "startColumn": 4,
-                    "startOffset": 46621,
+                    "startOffset": 46622,
                     "endLine": 350,
                     "endColumn": 12,
-                    "endOffset": 46766
+                    "endOffset": 46767
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/src/main/res/values/styles.xml",
@@ -5467,9 +5467,9 @@
                 "to": {
                     "startLine": 351,
                     "startColumn": 4,
-                    "startOffset": 46771,
+                    "startOffset": 46772,
                     "endColumn": 79,
-                    "endOffset": 46846
+                    "endOffset": 46847
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/src/main/res/values/styles.xml",
@@ -5486,10 +5486,10 @@
                 "to": {
                     "startLine": 352,
                     "startColumn": 4,
-                    "startOffset": 46851,
+                    "startOffset": 46852,
                     "endLine": 355,
                     "endColumn": 12,
-                    "endOffset": 47084
+                    "endOffset": 47085
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.mapbox.mapboxsdk/mapbox-android-sdk/3.1.0/res/values/values.xml",
@@ -5507,10 +5507,10 @@
                 "to": {
                     "startLine": 356,
                     "startColumn": 4,
-                    "startOffset": 47089,
+                    "startOffset": 47090,
                     "endLine": 362,
                     "endColumn": 12,
-                    "endOffset": 47585
+                    "endOffset": 47586
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5528,9 +5528,9 @@
                 "to": {
                     "startLine": 363,
                     "startColumn": 4,
-                    "startOffset": 47590,
+                    "startOffset": 47591,
                     "endColumn": 88,
-                    "endOffset": 47674
+                    "endOffset": 47675
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5547,10 +5547,10 @@
                 "to": {
                     "startLine": 364,
                     "startColumn": 4,
-                    "startOffset": 47679,
+                    "startOffset": 47680,
                     "endLine": 367,
                     "endColumn": 12,
-                    "endOffset": 47921
+                    "endOffset": 47922
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5568,10 +5568,10 @@
                 "to": {
                     "startLine": 368,
                     "startColumn": 4,
-                    "startOffset": 47926,
+                    "startOffset": 47927,
                     "endLine": 371,
                     "endColumn": 12,
-                    "endOffset": 48202
+                    "endOffset": 48203
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5589,10 +5589,10 @@
                 "to": {
                     "startLine": 372,
                     "startColumn": 4,
-                    "startOffset": 48207,
+                    "startOffset": 48208,
                     "endLine": 376,
                     "endColumn": 12,
-                    "endOffset": 48487
+                    "endOffset": 48488
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5610,10 +5610,10 @@
                 "to": {
                     "startLine": 377,
                     "startColumn": 4,
-                    "startOffset": 48492,
+                    "startOffset": 48493,
                     "endLine": 382,
                     "endColumn": 12,
-                    "endOffset": 48880
+                    "endOffset": 48881
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5631,10 +5631,10 @@
                 "to": {
                     "startLine": 383,
                     "startColumn": 4,
-                    "startOffset": 48885,
+                    "startOffset": 48886,
                     "endLine": 389,
                     "endColumn": 12,
-                    "endOffset": 49357
+                    "endOffset": 49358
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5652,10 +5652,10 @@
                 "to": {
                     "startLine": 390,
                     "startColumn": 4,
-                    "startOffset": 49362,
+                    "startOffset": 49363,
                     "endLine": 393,
                     "endColumn": 12,
-                    "endOffset": 49579
+                    "endOffset": 49580
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5673,10 +5673,10 @@
                 "to": {
                     "startLine": 394,
                     "startColumn": 4,
-                    "startOffset": 49584,
+                    "startOffset": 49585,
                     "endLine": 397,
                     "endColumn": 12,
-                    "endOffset": 49801
+                    "endOffset": 49802
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5694,10 +5694,10 @@
                 "to": {
                     "startLine": 398,
                     "startColumn": 4,
-                    "startOffset": 49806,
+                    "startOffset": 49807,
                     "endLine": 402,
                     "endColumn": 12,
-                    "endOffset": 50069
+                    "endOffset": 50070
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5715,10 +5715,10 @@
                 "to": {
                     "startLine": 403,
                     "startColumn": 4,
-                    "startOffset": 50074,
+                    "startOffset": 50075,
                     "endLine": 406,
                     "endColumn": 12,
-                    "endOffset": 50296
+                    "endOffset": 50297
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5736,10 +5736,10 @@
                 "to": {
                     "startLine": 407,
                     "startColumn": 4,
-                    "startOffset": 50301,
+                    "startOffset": 50302,
                     "endLine": 410,
                     "endColumn": 12,
-                    "endOffset": 50526
+                    "endOffset": 50527
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5757,10 +5757,10 @@
                 "to": {
                     "startLine": 411,
                     "startColumn": 4,
-                    "startOffset": 50531,
+                    "startOffset": 50532,
                     "endLine": 414,
                     "endColumn": 12,
-                    "endOffset": 50756
+                    "endOffset": 50757
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5778,10 +5778,10 @@
                 "to": {
                     "startLine": 415,
                     "startColumn": 4,
-                    "startOffset": 50761,
+                    "startOffset": 50762,
                     "endLine": 418,
                     "endColumn": 12,
-                    "endOffset": 50986
+                    "endOffset": 50987
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5799,10 +5799,10 @@
                 "to": {
                     "startLine": 419,
                     "startColumn": 4,
-                    "startOffset": 50991,
+                    "startOffset": 50992,
                     "endLine": 422,
                     "endColumn": 12,
-                    "endOffset": 51216
+                    "endOffset": 51217
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5820,10 +5820,10 @@
                 "to": {
                     "startLine": 423,
                     "startColumn": 4,
-                    "startOffset": 51221,
+                    "startOffset": 51222,
                     "endLine": 426,
                     "endColumn": 12,
-                    "endOffset": 51443
+                    "endOffset": 51444
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5841,10 +5841,10 @@
                 "to": {
                     "startLine": 427,
                     "startColumn": 4,
-                    "startOffset": 51448,
+                    "startOffset": 51449,
                     "endLine": 430,
                     "endColumn": 12,
-                    "endOffset": 51682
+                    "endOffset": 51683
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5862,10 +5862,10 @@
                 "to": {
                     "startLine": 431,
                     "startColumn": 4,
-                    "startOffset": 51687,
+                    "startOffset": 51688,
                     "endLine": 434,
                     "endColumn": 12,
-                    "endOffset": 51908
+                    "endOffset": 51909
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5883,10 +5883,10 @@
                 "to": {
                     "startLine": 435,
                     "startColumn": 4,
-                    "startOffset": 51913,
+                    "startOffset": 51914,
                     "endLine": 438,
                     "endColumn": 12,
-                    "endOffset": 52153
+                    "endOffset": 52154
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5904,10 +5904,10 @@
                 "to": {
                     "startLine": 439,
                     "startColumn": 4,
-                    "startOffset": 52158,
+                    "startOffset": 52159,
                     "endLine": 440,
                     "endColumn": 12,
-                    "endOffset": 52283
+                    "endOffset": 52284
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5925,10 +5925,10 @@
                 "to": {
                     "startLine": 441,
                     "startColumn": 4,
-                    "startOffset": 52288,
+                    "startOffset": 52289,
                     "endLine": 442,
                     "endColumn": 12,
-                    "endOffset": 52413
+                    "endOffset": 52414
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5946,10 +5946,10 @@
                 "to": {
                     "startLine": 443,
                     "startColumn": 4,
-                    "startOffset": 52418,
+                    "startOffset": 52419,
                     "endLine": 446,
                     "endColumn": 12,
-                    "endOffset": 52643
+                    "endOffset": 52644
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5967,10 +5967,10 @@
                 "to": {
                     "startLine": 447,
                     "startColumn": 4,
-                    "startOffset": 52648,
+                    "startOffset": 52649,
                     "endLine": 450,
                     "endColumn": 12,
-                    "endOffset": 52891
+                    "endOffset": 52892
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -5988,10 +5988,10 @@
                 "to": {
                     "startLine": 451,
                     "startColumn": 4,
-                    "startOffset": 52896,
+                    "startOffset": 52897,
                     "endLine": 454,
                     "endColumn": 12,
-                    "endOffset": 53110
+                    "endOffset": 53111
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6009,10 +6009,10 @@
                 "to": {
                     "startLine": 455,
                     "startColumn": 4,
-                    "startOffset": 53115,
+                    "startOffset": 53116,
                     "endLine": 459,
                     "endColumn": 12,
-                    "endOffset": 53393
+                    "endOffset": 53394
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6030,10 +6030,10 @@
                 "to": {
                     "startLine": 460,
                     "startColumn": 4,
-                    "startOffset": 53398,
+                    "startOffset": 53399,
                     "endLine": 463,
                     "endColumn": 12,
-                    "endOffset": 53601
+                    "endOffset": 53602
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6051,10 +6051,10 @@
                 "to": {
                     "startLine": 464,
                     "startColumn": 4,
-                    "startOffset": 53606,
+                    "startOffset": 53607,
                     "endLine": 466,
                     "endColumn": 12,
-                    "endOffset": 53732
+                    "endOffset": 53733
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6072,10 +6072,10 @@
                 "to": {
                     "startLine": 467,
                     "startColumn": 4,
-                    "startOffset": 53737,
+                    "startOffset": 53738,
                     "endLine": 470,
                     "endColumn": 12,
-                    "endOffset": 53959
+                    "endOffset": 53960
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6093,10 +6093,10 @@
                 "to": {
                     "startLine": 471,
                     "startColumn": 4,
-                    "startOffset": 53964,
+                    "startOffset": 53965,
                     "endLine": 474,
                     "endColumn": 12,
-                    "endOffset": 54205
+                    "endOffset": 54206
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6114,10 +6114,10 @@
                 "to": {
                     "startLine": 475,
                     "startColumn": 4,
-                    "startOffset": 54210,
+                    "startOffset": 54211,
                     "endLine": 478,
                     "endColumn": 12,
-                    "endOffset": 54430
+                    "endOffset": 54431
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6135,10 +6135,10 @@
                 "to": {
                     "startLine": 479,
                     "startColumn": 4,
-                    "startOffset": 54435,
+                    "startOffset": 54436,
                     "endLine": 482,
                     "endColumn": 12,
-                    "endOffset": 54677
+                    "endOffset": 54678
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6156,10 +6156,10 @@
                 "to": {
                     "startLine": 483,
                     "startColumn": 4,
-                    "startOffset": 54682,
+                    "startOffset": 54683,
                     "endLine": 486,
                     "endColumn": 12,
-                    "endOffset": 54898
+                    "endOffset": 54899
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6177,10 +6177,10 @@
                 "to": {
                     "startLine": 487,
                     "startColumn": 4,
-                    "startOffset": 54903,
+                    "startOffset": 54904,
                     "endLine": 490,
                     "endColumn": 12,
-                    "endOffset": 55143
+                    "endOffset": 55144
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6198,10 +6198,10 @@
                 "to": {
                     "startLine": 491,
                     "startColumn": 4,
-                    "startOffset": 55148,
+                    "startOffset": 55149,
                     "endLine": 494,
                     "endColumn": 12,
-                    "endOffset": 55417
+                    "endOffset": 55418
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6219,10 +6219,10 @@
                 "to": {
                     "startLine": 495,
                     "startColumn": 4,
-                    "startOffset": 55422,
+                    "startOffset": 55423,
                     "endLine": 498,
                     "endColumn": 12,
-                    "endOffset": 55718
+                    "endOffset": 55719
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6240,10 +6240,10 @@
                 "to": {
                     "startLine": 499,
                     "startColumn": 4,
-                    "startOffset": 55723,
+                    "startOffset": 55724,
                     "endLine": 502,
                     "endColumn": 12,
-                    "endOffset": 56042
+                    "endOffset": 56043
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6261,10 +6261,10 @@
                 "to": {
                     "startLine": 503,
                     "startColumn": 4,
-                    "startOffset": 56047,
+                    "startOffset": 56048,
                     "endLine": 506,
                     "endColumn": 12,
-                    "endOffset": 56333
+                    "endOffset": 56334
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6282,10 +6282,10 @@
                 "to": {
                     "startLine": 507,
                     "startColumn": 4,
-                    "startOffset": 56338,
+                    "startOffset": 56339,
                     "endLine": 510,
                     "endColumn": 12,
-                    "endOffset": 56647
+                    "endOffset": 56648
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6303,9 +6303,9 @@
                 "to": {
                     "startLine": 511,
                     "startColumn": 4,
-                    "startOffset": 56652,
+                    "startOffset": 56653,
                     "endColumn": 136,
-                    "endOffset": 56784
+                    "endOffset": 56785
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6322,9 +6322,9 @@
                 "to": {
                     "startLine": 512,
                     "startColumn": 4,
-                    "startOffset": 56789,
+                    "startOffset": 56790,
                     "endColumn": 130,
-                    "endOffset": 56915
+                    "endOffset": 56916
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6341,9 +6341,9 @@
                 "to": {
                     "startLine": 513,
                     "startColumn": 4,
-                    "startOffset": 56920,
+                    "startOffset": 56921,
                     "endColumn": 104,
-                    "endOffset": 57020
+                    "endOffset": 57021
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6360,10 +6360,10 @@
                 "to": {
                     "startLine": 514,
                     "startColumn": 4,
-                    "startOffset": 57025,
+                    "startOffset": 57026,
                     "endLine": 516,
                     "endColumn": 12,
-                    "endOffset": 57224
+                    "endOffset": 57225
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6381,10 +6381,10 @@
                 "to": {
                     "startLine": 517,
                     "startColumn": 4,
-                    "startOffset": 57229,
+                    "startOffset": 57230,
                     "endLine": 519,
                     "endColumn": 12,
-                    "endOffset": 57432
+                    "endOffset": 57433
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6402,10 +6402,10 @@
                 "to": {
                     "startLine": 520,
                     "startColumn": 4,
-                    "startOffset": 57437,
+                    "startOffset": 57438,
                     "endLine": 521,
                     "endColumn": 12,
-                    "endOffset": 57556
+                    "endOffset": 57557
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6423,10 +6423,10 @@
                 "to": {
                     "startLine": 522,
                     "startColumn": 4,
-                    "startOffset": 57561,
+                    "startOffset": 57562,
                     "endLine": 523,
                     "endColumn": 12,
-                    "endOffset": 57680
+                    "endOffset": 57681
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6444,9 +6444,9 @@
                 "to": {
                     "startLine": 524,
                     "startColumn": 4,
-                    "startOffset": 57685,
+                    "startOffset": 57686,
                     "endColumn": 104,
-                    "endOffset": 57785
+                    "endOffset": 57786
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6463,9 +6463,9 @@
                 "to": {
                     "startLine": 525,
                     "startColumn": 4,
-                    "startOffset": 57790,
+                    "startOffset": 57791,
                     "endColumn": 116,
-                    "endOffset": 57902
+                    "endOffset": 57903
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6482,10 +6482,10 @@
                 "to": {
                     "startLine": 526,
                     "startColumn": 4,
-                    "startOffset": 57907,
+                    "startOffset": 57908,
                     "endLine": 528,
                     "endColumn": 12,
-                    "endOffset": 58116
+                    "endOffset": 58117
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6503,10 +6503,10 @@
                 "to": {
                     "startLine": 529,
                     "startColumn": 4,
-                    "startOffset": 58121,
+                    "startOffset": 58122,
                     "endLine": 530,
                     "endColumn": 12,
-                    "endOffset": 58262
+                    "endOffset": 58263
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6524,10 +6524,10 @@
                 "to": {
                     "startLine": 531,
                     "startColumn": 4,
-                    "startOffset": 58267,
+                    "startOffset": 58268,
                     "endLine": 532,
                     "endColumn": 12,
-                    "endOffset": 58402
+                    "endOffset": 58403
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6545,10 +6545,10 @@
                 "to": {
                     "startLine": 533,
                     "startColumn": 4,
-                    "startOffset": 58407,
+                    "startOffset": 58408,
                     "endLine": 534,
                     "endColumn": 12,
-                    "endOffset": 58488
+                    "endOffset": 58489
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6566,10 +6566,10 @@
                 "to": {
                     "startLine": 535,
                     "startColumn": 4,
-                    "startOffset": 58493,
+                    "startOffset": 58494,
                     "endLine": 539,
                     "endColumn": 12,
-                    "endOffset": 58836
+                    "endOffset": 58837
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6587,9 +6587,9 @@
                 "to": {
                     "startLine": 540,
                     "startColumn": 4,
-                    "startOffset": 58841,
+                    "startOffset": 58842,
                     "endColumn": 87,
-                    "endOffset": 58924
+                    "endOffset": 58925
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6606,10 +6606,10 @@
                 "to": {
                     "startLine": 541,
                     "startColumn": 4,
-                    "startOffset": 58929,
+                    "startOffset": 58930,
                     "endLine": 544,
                     "endColumn": 12,
-                    "endOffset": 59154
+                    "endOffset": 59155
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6627,10 +6627,10 @@
                 "to": {
                     "startLine": 545,
                     "startColumn": 4,
-                    "startOffset": 59159,
+                    "startOffset": 59160,
                     "endLine": 550,
                     "endColumn": 12,
-                    "endOffset": 59572
+                    "endOffset": 59573
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6648,10 +6648,10 @@
                 "to": {
                     "startLine": 551,
                     "startColumn": 4,
-                    "startOffset": 59577,
+                    "startOffset": 59578,
                     "endLine": 554,
                     "endColumn": 12,
-                    "endOffset": 59805
+                    "endOffset": 59806
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6669,9 +6669,9 @@
                 "to": {
                     "startLine": 555,
                     "startColumn": 4,
-                    "startOffset": 59810,
+                    "startOffset": 59811,
                     "endColumn": 81,
-                    "endOffset": 59887
+                    "endOffset": 59888
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6688,10 +6688,10 @@
                 "to": {
                     "startLine": 556,
                     "startColumn": 4,
-                    "startOffset": 59892,
+                    "startOffset": 59893,
                     "endLine": 557,
                     "endColumn": 12,
-                    "endOffset": 59985
+                    "endOffset": 59986
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6709,10 +6709,10 @@
                 "to": {
                     "startLine": 558,
                     "startColumn": 4,
-                    "startOffset": 59990,
+                    "startOffset": 59991,
                     "endLine": 568,
                     "endColumn": 12,
-                    "endOffset": 60602
+                    "endOffset": 60603
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6730,9 +6730,9 @@
                 "to": {
                     "startLine": 569,
                     "startColumn": 4,
-                    "startOffset": 60607,
+                    "startOffset": 60608,
                     "endColumn": 99,
-                    "endOffset": 60702
+                    "endOffset": 60703
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6749,10 +6749,10 @@
                 "to": {
                     "startLine": 570,
                     "startColumn": 4,
-                    "startOffset": 60707,
+                    "startOffset": 60708,
                     "endLine": 573,
                     "endColumn": 12,
-                    "endOffset": 60938
+                    "endOffset": 60939
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6770,10 +6770,10 @@
                 "to": {
                     "startLine": 574,
                     "startColumn": 4,
-                    "startOffset": 60943,
+                    "startOffset": 60944,
                     "endLine": 579,
                     "endColumn": 12,
-                    "endOffset": 61362
+                    "endOffset": 61363
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6791,10 +6791,10 @@
                 "to": {
                     "startLine": 580,
                     "startColumn": 4,
-                    "startOffset": 61367,
+                    "startOffset": 61368,
                     "endLine": 583,
                     "endColumn": 12,
-                    "endOffset": 61601
+                    "endOffset": 61602
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6812,9 +6812,9 @@
                 "to": {
                     "startLine": 584,
                     "startColumn": 4,
-                    "startOffset": 61606,
+                    "startOffset": 61607,
                     "endColumn": 93,
-                    "endOffset": 61695
+                    "endOffset": 61696
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6831,9 +6831,9 @@
                 "to": {
                     "startLine": 585,
                     "startColumn": 4,
-                    "startOffset": 61700,
+                    "startOffset": 61701,
                     "endColumn": 88,
-                    "endOffset": 61784
+                    "endOffset": 61785
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6850,10 +6850,10 @@
                 "to": {
                     "startLine": 586,
                     "startColumn": 4,
-                    "startOffset": 61789,
+                    "startOffset": 61790,
                     "endLine": 589,
                     "endColumn": 12,
-                    "endOffset": 62021
+                    "endOffset": 62022
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6871,10 +6871,10 @@
                 "to": {
                     "startLine": 590,
                     "startColumn": 4,
-                    "startOffset": 62026,
+                    "startOffset": 62027,
                     "endLine": 615,
                     "endColumn": 12,
-                    "endOffset": 63972
+                    "endOffset": 63973
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6892,10 +6892,10 @@
                 "to": {
                     "startLine": 616,
                     "startColumn": 4,
-                    "startOffset": 63977,
+                    "startOffset": 63978,
                     "endLine": 619,
                     "endColumn": 12,
-                    "endOffset": 64214
+                    "endOffset": 64215
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6913,10 +6913,10 @@
                 "to": {
                     "startLine": 620,
                     "startColumn": 4,
-                    "startOffset": 64219,
+                    "startOffset": 64220,
                     "endLine": 646,
                     "endColumn": 12,
-                    "endOffset": 66296
+                    "endOffset": 66297
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6934,10 +6934,10 @@
                 "to": {
                     "startLine": 647,
                     "startColumn": 4,
-                    "startOffset": 66301,
+                    "startOffset": 66302,
                     "endLine": 799,
                     "endColumn": 12,
-                    "endOffset": 75978
+                    "endOffset": 75979
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6955,10 +6955,10 @@
                 "to": {
                     "startLine": 800,
                     "startColumn": 4,
-                    "startOffset": 75983,
+                    "startOffset": 75984,
                     "endLine": 821,
                     "endColumn": 12,
-                    "endOffset": 77245
+                    "endOffset": 77246
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6976,10 +6976,10 @@
                 "to": {
                     "startLine": 822,
                     "startColumn": 4,
-                    "startOffset": 77250,
+                    "startOffset": 77251,
                     "endLine": 974,
                     "endColumn": 12,
-                    "endOffset": 87037
+                    "endOffset": 87038
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -6997,10 +6997,10 @@
                 "to": {
                     "startLine": 975,
                     "startColumn": 4,
-                    "startOffset": 87042,
+                    "startOffset": 87043,
                     "endLine": 996,
                     "endColumn": 12,
-                    "endOffset": 88318
+                    "endOffset": 88319
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7018,10 +7018,10 @@
                 "to": {
                     "startLine": 997,
                     "startColumn": 4,
-                    "startOffset": 88323,
+                    "startOffset": 88324,
                     "endLine": 1003,
                     "endColumn": 12,
-                    "endOffset": 88854
+                    "endOffset": 88855
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7039,10 +7039,10 @@
                 "to": {
                     "startLine": 1004,
                     "startColumn": 4,
-                    "startOffset": 88859,
+                    "startOffset": 88860,
                     "endLine": 1008,
                     "endColumn": 12,
-                    "endOffset": 89184
+                    "endOffset": 89185
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7060,10 +7060,10 @@
                 "to": {
                     "startLine": 1009,
                     "startColumn": 4,
-                    "startOffset": 89189,
+                    "startOffset": 89190,
                     "endLine": 1029,
                     "endColumn": 12,
-                    "endOffset": 90307
+                    "endOffset": 90308
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7081,10 +7081,10 @@
                 "to": {
                     "startLine": 1030,
                     "startColumn": 4,
-                    "startOffset": 90312,
+                    "startOffset": 90313,
                     "endLine": 1034,
                     "endColumn": 12,
-                    "endOffset": 90563
+                    "endOffset": 90564
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7102,10 +7102,10 @@
                 "to": {
                     "startLine": 1035,
                     "startColumn": 4,
-                    "startOffset": 90568,
+                    "startOffset": 90569,
                     "endLine": 1039,
                     "endColumn": 12,
-                    "endOffset": 90799
+                    "endOffset": 90800
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7123,10 +7123,10 @@
                 "to": {
                     "startLine": 1040,
                     "startColumn": 4,
-                    "startOffset": 90804,
+                    "startOffset": 90805,
                     "endLine": 1049,
                     "endColumn": 12,
-                    "endOffset": 91346
+                    "endOffset": 91347
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7144,10 +7144,10 @@
                 "to": {
                     "startLine": 1050,
                     "startColumn": 4,
-                    "startOffset": 91351,
+                    "startOffset": 91352,
                     "endLine": 1058,
                     "endColumn": 12,
-                    "endOffset": 91840
+                    "endOffset": 91841
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7165,10 +7165,10 @@
                 "to": {
                     "startLine": 1059,
                     "startColumn": 4,
-                    "startOffset": 91845,
+                    "startOffset": 91846,
                     "endLine": 1067,
                     "endColumn": 12,
-                    "endOffset": 92445
+                    "endOffset": 92446
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7186,10 +7186,10 @@
                 "to": {
                     "startLine": 1068,
                     "startColumn": 4,
-                    "startOffset": 92450,
+                    "startOffset": 92451,
                     "endLine": 1070,
                     "endColumn": 12,
-                    "endOffset": 92593
+                    "endOffset": 92594
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7207,10 +7207,10 @@
                 "to": {
                     "startLine": 1071,
                     "startColumn": 4,
-                    "startOffset": 92598,
+                    "startOffset": 92599,
                     "endLine": 1077,
                     "endColumn": 12,
-                    "endOffset": 93181
+                    "endOffset": 93182
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7228,10 +7228,10 @@
                 "to": {
                     "startLine": 1078,
                     "startColumn": 4,
-                    "startOffset": 93186,
+                    "startOffset": 93187,
                     "endLine": 1085,
                     "endColumn": 12,
-                    "endOffset": 93745
+                    "endOffset": 93746
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7249,10 +7249,10 @@
                 "to": {
                     "startLine": 1086,
                     "startColumn": 4,
-                    "startOffset": 93750,
+                    "startOffset": 93751,
                     "endLine": 1092,
                     "endColumn": 12,
-                    "endOffset": 94120
+                    "endOffset": 94121
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7270,9 +7270,9 @@
                 "to": {
                     "startLine": 1093,
                     "startColumn": 4,
-                    "startOffset": 94125,
+                    "startOffset": 94126,
                     "endColumn": 117,
-                    "endOffset": 94238
+                    "endOffset": 94239
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7289,10 +7289,10 @@
                 "to": {
                     "startLine": 1094,
                     "startColumn": 4,
-                    "startOffset": 94243,
+                    "startOffset": 94244,
                     "endLine": 1102,
                     "endColumn": 12,
-                    "endOffset": 94776
+                    "endOffset": 94777
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7310,10 +7310,10 @@
                 "to": {
                     "startLine": 1103,
                     "startColumn": 4,
-                    "startOffset": 94781,
+                    "startOffset": 94782,
                     "endLine": 1105,
                     "endColumn": 12,
-                    "endOffset": 94933
+                    "endOffset": 94934
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7331,10 +7331,10 @@
                 "to": {
                     "startLine": 1106,
                     "startColumn": 4,
-                    "startOffset": 94938,
+                    "startOffset": 94939,
                     "endLine": 1108,
                     "endColumn": 12,
-                    "endOffset": 95077
+                    "endOffset": 95078
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7352,10 +7352,10 @@
                 "to": {
                     "startLine": 1109,
                     "startColumn": 4,
-                    "startOffset": 95082,
+                    "startOffset": 95083,
                     "endLine": 1113,
                     "endColumn": 12,
-                    "endOffset": 95397
+                    "endOffset": 95398
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7373,10 +7373,10 @@
                 "to": {
                     "startLine": 1114,
                     "startColumn": 4,
-                    "startOffset": 95402,
+                    "startOffset": 95403,
                     "endLine": 1117,
                     "endColumn": 12,
-                    "endOffset": 95653
+                    "endOffset": 95654
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7394,10 +7394,10 @@
                 "to": {
                     "startLine": 1118,
                     "startColumn": 4,
-                    "startOffset": 95658,
+                    "startOffset": 95659,
                     "endLine": 1121,
                     "endColumn": 12,
-                    "endOffset": 95823
+                    "endOffset": 95824
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7415,10 +7415,10 @@
                 "to": {
                     "startLine": 1122,
                     "startColumn": 4,
-                    "startOffset": 95828,
+                    "startOffset": 95829,
                     "endLine": 1124,
                     "endColumn": 12,
-                    "endOffset": 95964
+                    "endOffset": 95965
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7436,9 +7436,9 @@
                 "to": {
                     "startLine": 1125,
                     "startColumn": 4,
-                    "startOffset": 95969,
+                    "startOffset": 95970,
                     "endColumn": 63,
-                    "endOffset": 96028
+                    "endOffset": 96029
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7455,10 +7455,10 @@
                 "to": {
                     "startLine": 1126,
                     "startColumn": 4,
-                    "startOffset": 96033,
+                    "startOffset": 96034,
                     "endLine": 1129,
                     "endColumn": 12,
-                    "endOffset": 96310
+                    "endOffset": 96311
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7476,10 +7476,10 @@
                 "to": {
                     "startLine": 1130,
                     "startColumn": 4,
-                    "startOffset": 96315,
+                    "startOffset": 96316,
                     "endLine": 1133,
                     "endColumn": 12,
-                    "endOffset": 96596
+                    "endOffset": 96597
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7497,10 +7497,10 @@
                 "to": {
                     "startLine": 1134,
                     "startColumn": 4,
-                    "startOffset": 96601,
+                    "startOffset": 96602,
                     "endLine": 1143,
                     "endColumn": 12,
-                    "endOffset": 97272
+                    "endOffset": 97273
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7518,10 +7518,10 @@
                 "to": {
                     "startLine": 1144,
                     "startColumn": 4,
-                    "startOffset": 97277,
+                    "startOffset": 97278,
                     "endLine": 1148,
                     "endColumn": 12,
-                    "endOffset": 97536
+                    "endOffset": 97537
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7539,10 +7539,10 @@
                 "to": {
                     "startLine": 1149,
                     "startColumn": 4,
-                    "startOffset": 97541,
+                    "startOffset": 97542,
                     "endLine": 1155,
                     "endColumn": 12,
-                    "endOffset": 97874
+                    "endOffset": 97875
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7560,10 +7560,10 @@
                 "to": {
                     "startLine": 1156,
                     "startColumn": 4,
-                    "startOffset": 97879,
+                    "startOffset": 97880,
                     "endLine": 1161,
                     "endColumn": 12,
-                    "endOffset": 98227
+                    "endOffset": 98228
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7581,9 +7581,9 @@
                 "to": {
                     "startLine": 1162,
                     "startColumn": 4,
-                    "startOffset": 98232,
+                    "startOffset": 98233,
                     "endColumn": 93,
-                    "endOffset": 98321
+                    "endOffset": 98322
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7600,10 +7600,10 @@
                 "to": {
                     "startLine": 1163,
                     "startColumn": 4,
-                    "startOffset": 98326,
+                    "startOffset": 98327,
                     "endLine": 1165,
                     "endColumn": 12,
-                    "endOffset": 98507
+                    "endOffset": 98508
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7621,10 +7621,10 @@
                 "to": {
                     "startLine": 1166,
                     "startColumn": 4,
-                    "startOffset": 98512,
+                    "startOffset": 98513,
                     "endLine": 1169,
                     "endColumn": 12,
-                    "endOffset": 98813
+                    "endOffset": 98814
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7642,10 +7642,10 @@
                 "to": {
                     "startLine": 1170,
                     "startColumn": 4,
-                    "startOffset": 98818,
+                    "startOffset": 98819,
                     "endLine": 1174,
                     "endColumn": 12,
-                    "endOffset": 99075
+                    "endOffset": 99076
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7663,10 +7663,10 @@
                 "to": {
                     "startLine": 1175,
                     "startColumn": 4,
-                    "startOffset": 99080,
+                    "startOffset": 99081,
                     "endLine": 1176,
                     "endColumn": 12,
-                    "endOffset": 99200
+                    "endOffset": 99201
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7684,10 +7684,10 @@
                 "to": {
                     "startLine": 1177,
                     "startColumn": 4,
-                    "startOffset": 99205,
+                    "startOffset": 99206,
                     "endLine": 1178,
                     "endColumn": 12,
-                    "endOffset": 99327
+                    "endOffset": 99328
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7705,10 +7705,10 @@
                 "to": {
                     "startLine": 1179,
                     "startColumn": 4,
-                    "startOffset": 99332,
+                    "startOffset": 99333,
                     "endLine": 1181,
                     "endColumn": 12,
-                    "endOffset": 99566
+                    "endOffset": 99567
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7726,10 +7726,10 @@
                 "to": {
                     "startLine": 1182,
                     "startColumn": 4,
-                    "startOffset": 99571,
+                    "startOffset": 99572,
                     "endLine": 1184,
                     "endColumn": 12,
-                    "endOffset": 99777
+                    "endOffset": 99778
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7747,10 +7747,10 @@
                 "to": {
                     "startLine": 1185,
                     "startColumn": 4,
-                    "startOffset": 99782,
+                    "startOffset": 99783,
                     "endLine": 1186,
                     "endColumn": 12,
-                    "endOffset": 99896
+                    "endOffset": 99897
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7768,10 +7768,10 @@
                 "to": {
                     "startLine": 1187,
                     "startColumn": 4,
-                    "startOffset": 99901,
+                    "startOffset": 99902,
                     "endLine": 1190,
                     "endColumn": 12,
-                    "endOffset": 100089
+                    "endOffset": 100090
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7789,10 +7789,10 @@
                 "to": {
                     "startLine": 1191,
                     "startColumn": 4,
-                    "startOffset": 100094,
+                    "startOffset": 100095,
                     "endLine": 1197,
                     "endColumn": 12,
-                    "endOffset": 100544
+                    "endOffset": 100545
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7810,10 +7810,10 @@
                 "to": {
                     "startLine": 1198,
                     "startColumn": 4,
-                    "startOffset": 100549,
+                    "startOffset": 100550,
                     "endLine": 1200,
                     "endColumn": 12,
-                    "endOffset": 100725
+                    "endOffset": 100726
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7831,10 +7831,10 @@
                 "to": {
                     "startLine": 1201,
                     "startColumn": 4,
-                    "startOffset": 100730,
+                    "startOffset": 100731,
                     "endLine": 1203,
                     "endColumn": 12,
-                    "endOffset": 100847
+                    "endOffset": 100848
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7852,10 +7852,10 @@
                 "to": {
                     "startLine": 1204,
                     "startColumn": 4,
-                    "startOffset": 100852,
+                    "startOffset": 100853,
                     "endLine": 1207,
                     "endColumn": 12,
-                    "endOffset": 101106
+                    "endOffset": 101107
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7873,10 +7873,10 @@
                 "to": {
                     "startLine": 1208,
                     "startColumn": 4,
-                    "startOffset": 101111,
+                    "startOffset": 101112,
                     "endLine": 1209,
                     "endColumn": 12,
-                    "endOffset": 101219
+                    "endOffset": 101220
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7894,10 +7894,10 @@
                 "to": {
                     "startLine": 1210,
                     "startColumn": 4,
-                    "startOffset": 101224,
+                    "startOffset": 101225,
                     "endLine": 1213,
                     "endColumn": 12,
-                    "endOffset": 101406
+                    "endOffset": 101407
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7915,10 +7915,10 @@
                 "to": {
                     "startLine": 1214,
                     "startColumn": 4,
-                    "startOffset": 101411,
+                    "startOffset": 101412,
                     "endLine": 1215,
                     "endColumn": 12,
-                    "endOffset": 101508
+                    "endOffset": 101509
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7936,10 +7936,10 @@
                 "to": {
                     "startLine": 1216,
                     "startColumn": 4,
-                    "startOffset": 101513,
+                    "startOffset": 101514,
                     "endLine": 1221,
                     "endColumn": 12,
-                    "endOffset": 101952
+                    "endOffset": 101953
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7957,10 +7957,10 @@
                 "to": {
                     "startLine": 1222,
                     "startColumn": 4,
-                    "startOffset": 101957,
+                    "startOffset": 101958,
                     "endLine": 1223,
                     "endColumn": 12,
-                    "endOffset": 102076
+                    "endOffset": 102077
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7978,10 +7978,10 @@
                 "to": {
                     "startLine": 1224,
                     "startColumn": 4,
-                    "startOffset": 102081,
+                    "startOffset": 102082,
                     "endLine": 1227,
                     "endColumn": 12,
-                    "endOffset": 102361
+                    "endOffset": 102362
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -7999,10 +7999,10 @@
                 "to": {
                     "startLine": 1228,
                     "startColumn": 4,
-                    "startOffset": 102366,
+                    "startOffset": 102367,
                     "endLine": 1239,
                     "endColumn": 12,
-                    "endOffset": 103248
+                    "endOffset": 103249
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8020,10 +8020,10 @@
                 "to": {
                     "startLine": 1240,
                     "startColumn": 4,
-                    "startOffset": 103253,
+                    "startOffset": 103254,
                     "endLine": 1245,
                     "endColumn": 12,
-                    "endOffset": 103542
+                    "endOffset": 103543
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8041,10 +8041,10 @@
                 "to": {
                     "startLine": 1246,
                     "startColumn": 4,
-                    "startOffset": 103547,
+                    "startOffset": 103548,
                     "endLine": 1254,
                     "endColumn": 12,
-                    "endOffset": 104112
+                    "endOffset": 104113
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8062,10 +8062,10 @@
                 "to": {
                     "startLine": 1255,
                     "startColumn": 4,
-                    "startOffset": 104117,
+                    "startOffset": 104118,
                     "endLine": 1265,
                     "endColumn": 12,
-                    "endOffset": 104844
+                    "endOffset": 104845
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8083,10 +8083,10 @@
                 "to": {
                     "startLine": 1266,
                     "startColumn": 4,
-                    "startOffset": 104849,
+                    "startOffset": 104850,
                     "endLine": 1268,
                     "endColumn": 12,
-                    "endOffset": 105016
+                    "endOffset": 105017
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8104,10 +8104,10 @@
                 "to": {
                     "startLine": 1269,
                     "startColumn": 4,
-                    "startOffset": 105021,
+                    "startOffset": 105022,
                     "endLine": 1273,
                     "endColumn": 12,
-                    "endOffset": 105352
+                    "endOffset": 105353
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8125,10 +8125,10 @@
                 "to": {
                     "startLine": 1274,
                     "startColumn": 4,
-                    "startOffset": 105357,
+                    "startOffset": 105358,
                     "endLine": 1285,
                     "endColumn": 12,
-                    "endOffset": 106219
+                    "endOffset": 106220
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8146,10 +8146,10 @@
                 "to": {
                     "startLine": 1286,
                     "startColumn": 4,
-                    "startOffset": 106224,
+                    "startOffset": 106225,
                     "endLine": 1290,
                     "endColumn": 12,
-                    "endOffset": 106497
+                    "endOffset": 106498
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8167,10 +8167,10 @@
                 "to": {
                     "startLine": 1291,
                     "startColumn": 4,
-                    "startOffset": 106502,
+                    "startOffset": 106503,
                     "endLine": 1300,
                     "endColumn": 12,
-                    "endOffset": 107088
+                    "endOffset": 107089
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -8188,10 +8188,10 @@
                 "to": {
                     "startLine": 1301,
                     "startColumn": 4,
-                    "startOffset": 107093,
+                    "startOffset": 107094,
                     "endLine": 1303,
                     "endColumn": 12,
-                    "endOffset": 107167
+                    "endOffset": 107168
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/src/main/res/values/styles.xml",
@@ -8209,10 +8209,10 @@
                 "to": {
                     "startLine": 1304,
                     "startColumn": 4,
-                    "startOffset": 107172,
+                    "startOffset": 107173,
                     "endLine": 1310,
                     "endColumn": 12,
-                    "endOffset": 107551
+                    "endOffset": 107552
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/src/main/res/values/styles.xml",
@@ -8230,10 +8230,10 @@
                 "to": {
                     "startLine": 1311,
                     "startColumn": 4,
-                    "startOffset": 107556,
+                    "startOffset": 107557,
                     "endLine": 1348,
                     "endColumn": 12,
-                    "endOffset": 110413
+                    "endOffset": 110414
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8251,10 +8251,10 @@
                 "to": {
                     "startLine": 1349,
                     "startColumn": 4,
-                    "startOffset": 110418,
+                    "startOffset": 110419,
                     "endLine": 1387,
                     "endColumn": 12,
-                    "endOffset": 113415
+                    "endOffset": 113416
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8272,9 +8272,9 @@
                 "to": {
                     "startLine": 1388,
                     "startColumn": 4,
-                    "startOffset": 113420,
+                    "startOffset": 113421,
                     "endColumn": 61,
-                    "endOffset": 113477
+                    "endOffset": 113478
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8291,10 +8291,10 @@
                 "to": {
                     "startLine": 1389,
                     "startColumn": 4,
-                    "startOffset": 113482,
+                    "startOffset": 113483,
                     "endLine": 1398,
                     "endColumn": 12,
-                    "endOffset": 114107
+                    "endOffset": 114108
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8312,10 +8312,10 @@
                 "to": {
                     "startLine": 1399,
                     "startColumn": 4,
-                    "startOffset": 114112,
+                    "startOffset": 114113,
                     "endLine": 1407,
                     "endColumn": 12,
-                    "endOffset": 114721
+                    "endOffset": 114722
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8333,9 +8333,9 @@
                 "to": {
                     "startLine": 1408,
                     "startColumn": 4,
-                    "startOffset": 114726,
+                    "startOffset": 114727,
                     "endColumn": 85,
-                    "endOffset": 114807
+                    "endOffset": 114808
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8352,10 +8352,10 @@
                 "to": {
                     "startLine": 1409,
                     "startColumn": 4,
-                    "startOffset": 114812,
+                    "startOffset": 114813,
                     "endLine": 1410,
                     "endColumn": 12,
-                    "endOffset": 114920
+                    "endOffset": 114921
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8373,10 +8373,10 @@
                 "to": {
                     "startLine": 1411,
                     "startColumn": 4,
-                    "startOffset": 114925,
+                    "startOffset": 114926,
                     "endLine": 1414,
                     "endColumn": 12,
-                    "endOffset": 115149
+                    "endOffset": 115150
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8394,10 +8394,10 @@
                 "to": {
                     "startLine": 1415,
                     "startColumn": 4,
-                    "startOffset": 115154,
+                    "startOffset": 115155,
                     "endLine": 1417,
                     "endColumn": 12,
-                    "endOffset": 115309
+                    "endOffset": 115310
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8415,10 +8415,10 @@
                 "to": {
                     "startLine": 1418,
                     "startColumn": 4,
-                    "startOffset": 115314,
+                    "startOffset": 115315,
                     "endLine": 1420,
                     "endColumn": 12,
-                    "endOffset": 115461
+                    "endOffset": 115462
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8436,10 +8436,10 @@
                 "to": {
                     "startLine": 1421,
                     "startColumn": 4,
-                    "startOffset": 115466,
+                    "startOffset": 115467,
                     "endLine": 1423,
                     "endColumn": 12,
-                    "endOffset": 115632
+                    "endOffset": 115633
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8457,10 +8457,10 @@
                 "to": {
                     "startLine": 1424,
                     "startColumn": 4,
-                    "startOffset": 115637,
+                    "startOffset": 115638,
                     "endLine": 1426,
                     "endColumn": 12,
-                    "endOffset": 115799
+                    "endOffset": 115800
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8478,10 +8478,10 @@
                 "to": {
                     "startLine": 1427,
                     "startColumn": 4,
-                    "startOffset": 115804,
+                    "startOffset": 115805,
                     "endLine": 1430,
                     "endColumn": 12,
-                    "endOffset": 116042
+                    "endOffset": 116043
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8499,10 +8499,10 @@
                 "to": {
                     "startLine": 1431,
                     "startColumn": 4,
-                    "startOffset": 116047,
+                    "startOffset": 116048,
                     "endLine": 1433,
                     "endColumn": 12,
-                    "endOffset": 116212
+                    "endOffset": 116213
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8520,10 +8520,10 @@
                 "to": {
                     "startLine": 1434,
                     "startColumn": 4,
-                    "startOffset": 116217,
+                    "startOffset": 116218,
                     "endLine": 1436,
                     "endColumn": 12,
-                    "endOffset": 116385
+                    "endOffset": 116386
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8541,10 +8541,10 @@
                 "to": {
                     "startLine": 1437,
                     "startColumn": 4,
-                    "startOffset": 116390,
+                    "startOffset": 116391,
                     "endLine": 1439,
                     "endColumn": 12,
-                    "endOffset": 116556
+                    "endOffset": 116557
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8562,10 +8562,10 @@
                 "to": {
                     "startLine": 1440,
                     "startColumn": 4,
-                    "startOffset": 116561,
+                    "startOffset": 116562,
                     "endLine": 1443,
                     "endColumn": 12,
-                    "endOffset": 116830
+                    "endOffset": 116831
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8583,10 +8583,10 @@
                 "to": {
                     "startLine": 1444,
                     "startColumn": 4,
-                    "startOffset": 116835,
+                    "startOffset": 116836,
                     "endLine": 1446,
                     "endColumn": 12,
-                    "endOffset": 117029
+                    "endOffset": 117030
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8604,10 +8604,10 @@
                 "to": {
                     "startLine": 1447,
                     "startColumn": 4,
-                    "startOffset": 117034,
+                    "startOffset": 117035,
                     "endLine": 1450,
                     "endColumn": 12,
-                    "endOffset": 117234
+                    "endOffset": 117235
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8625,10 +8625,10 @@
                 "to": {
                     "startLine": 1451,
                     "startColumn": 4,
-                    "startOffset": 117239,
+                    "startOffset": 117240,
                     "endLine": 1454,
                     "endColumn": 12,
-                    "endOffset": 117564
+                    "endOffset": 117565
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8646,9 +8646,9 @@
                 "to": {
                     "startLine": 1455,
                     "startColumn": 4,
-                    "startOffset": 117569,
+                    "startOffset": 117570,
                     "endColumn": 83,
-                    "endOffset": 117648
+                    "endOffset": 117649
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8665,9 +8665,9 @@
                 "to": {
                     "startLine": 1456,
                     "startColumn": 4,
-                    "startOffset": 117653,
+                    "startOffset": 117654,
                     "endColumn": 95,
-                    "endOffset": 117744
+                    "endOffset": 117745
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8684,9 +8684,9 @@
                 "to": {
                     "startLine": 1457,
                     "startColumn": 4,
-                    "startOffset": 117749,
+                    "startOffset": 117750,
                     "endColumn": 95,
-                    "endOffset": 117840
+                    "endOffset": 117841
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8703,9 +8703,9 @@
                 "to": {
                     "startLine": 1458,
                     "startColumn": 4,
-                    "startOffset": 117845,
+                    "startOffset": 117846,
                     "endColumn": 97,
-                    "endOffset": 117938
+                    "endOffset": 117939
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8722,9 +8722,9 @@
                 "to": {
                     "startLine": 1459,
                     "startColumn": 4,
-                    "startOffset": 117943,
+                    "startOffset": 117944,
                     "endColumn": 99,
-                    "endOffset": 118038
+                    "endOffset": 118039
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8741,9 +8741,9 @@
                 "to": {
                     "startLine": 1460,
                     "startColumn": 4,
-                    "startOffset": 118043,
+                    "startOffset": 118044,
                     "endColumn": 101,
-                    "endOffset": 118140
+                    "endOffset": 118141
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8760,9 +8760,9 @@
                 "to": {
                     "startLine": 1461,
                     "startColumn": 4,
-                    "startOffset": 118145,
+                    "startOffset": 118146,
                     "endColumn": 101,
-                    "endOffset": 118242
+                    "endOffset": 118243
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8779,9 +8779,9 @@
                 "to": {
                     "startLine": 1462,
                     "startColumn": 4,
-                    "startOffset": 118247,
+                    "startOffset": 118248,
                     "endColumn": 101,
-                    "endOffset": 118344
+                    "endOffset": 118345
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8798,9 +8798,9 @@
                 "to": {
                     "startLine": 1463,
                     "startColumn": 4,
-                    "startOffset": 118349,
+                    "startOffset": 118350,
                     "endColumn": 101,
-                    "endOffset": 118446
+                    "endOffset": 118447
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8817,9 +8817,9 @@
                 "to": {
                     "startLine": 1464,
                     "startColumn": 4,
-                    "startOffset": 118451,
+                    "startOffset": 118452,
                     "endColumn": 101,
-                    "endOffset": 118548
+                    "endOffset": 118549
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8836,9 +8836,9 @@
                 "to": {
                     "startLine": 1465,
                     "startColumn": 4,
-                    "startOffset": 118553,
+                    "startOffset": 118554,
                     "endColumn": 99,
-                    "endOffset": 118648
+                    "endOffset": 118649
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8855,9 +8855,9 @@
                 "to": {
                     "startLine": 1466,
                     "startColumn": 4,
-                    "startOffset": 118653,
+                    "startOffset": 118654,
                     "endColumn": 95,
-                    "endOffset": 118744
+                    "endOffset": 118745
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8874,9 +8874,9 @@
                 "to": {
                     "startLine": 1467,
                     "startColumn": 4,
-                    "startOffset": 118749,
+                    "startOffset": 118750,
                     "endColumn": 111,
-                    "endOffset": 118856
+                    "endOffset": 118857
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8893,9 +8893,9 @@
                 "to": {
                     "startLine": 1468,
                     "startColumn": 4,
-                    "startOffset": 118861,
+                    "startOffset": 118862,
                     "endColumn": 128,
-                    "endOffset": 118985
+                    "endOffset": 118986
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8912,9 +8912,9 @@
                 "to": {
                     "startLine": 1469,
                     "startColumn": 4,
-                    "startOffset": 118990,
+                    "startOffset": 118991,
                     "endColumn": 122,
-                    "endOffset": 119108
+                    "endOffset": 119109
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8931,10 +8931,10 @@
                 "to": {
                     "startLine": 1470,
                     "startColumn": 4,
-                    "startOffset": 119113,
+                    "startOffset": 119114,
                     "endLine": 1471,
                     "endColumn": 12,
-                    "endOffset": 119262
+                    "endOffset": 119263
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8952,10 +8952,10 @@
                 "to": {
                     "startLine": 1472,
                     "startColumn": 4,
-                    "startOffset": 119267,
+                    "startOffset": 119268,
                     "endLine": 1473,
                     "endColumn": 12,
-                    "endOffset": 119416
+                    "endOffset": 119417
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8973,9 +8973,9 @@
                 "to": {
                     "startLine": 1474,
                     "startColumn": 4,
-                    "startOffset": 119421,
+                    "startOffset": 119422,
                     "endColumn": 97,
-                    "endOffset": 119514
+                    "endOffset": 119515
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -8992,9 +8992,9 @@
                 "to": {
                     "startLine": 1475,
                     "startColumn": 4,
-                    "startOffset": 119519,
+                    "startOffset": 119520,
                     "endColumn": 113,
-                    "endOffset": 119628
+                    "endOffset": 119629
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9011,9 +9011,9 @@
                 "to": {
                     "startLine": 1476,
                     "startColumn": 4,
-                    "startOffset": 119633,
+                    "startOffset": 119634,
                     "endColumn": 93,
-                    "endOffset": 119722
+                    "endOffset": 119723
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9030,10 +9030,10 @@
                 "to": {
                     "startLine": 1477,
                     "startColumn": 4,
-                    "startOffset": 119727,
+                    "startOffset": 119728,
                     "endLine": 1478,
                     "endColumn": 12,
-                    "endOffset": 119862
+                    "endOffset": 119863
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9051,10 +9051,10 @@
                 "to": {
                     "startLine": 1479,
                     "startColumn": 4,
-                    "startOffset": 119867,
+                    "startOffset": 119868,
                     "endLine": 1480,
                     "endColumn": 12,
-                    "endOffset": 119996
+                    "endOffset": 119997
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9072,9 +9072,9 @@
                 "to": {
                     "startLine": 1481,
                     "startColumn": 4,
-                    "startOffset": 120001,
+                    "startOffset": 120002,
                     "endColumn": 95,
-                    "endOffset": 120092
+                    "endOffset": 120093
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9091,9 +9091,9 @@
                 "to": {
                     "startLine": 1482,
                     "startColumn": 4,
-                    "startOffset": 120097,
+                    "startOffset": 120098,
                     "endColumn": 111,
-                    "endOffset": 120204
+                    "endOffset": 120205
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9110,9 +9110,9 @@
                 "to": {
                     "startLine": 1483,
                     "startColumn": 4,
-                    "startOffset": 120209,
+                    "startOffset": 120210,
                     "endColumn": 99,
-                    "endOffset": 120304
+                    "endOffset": 120305
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9129,9 +9129,9 @@
                 "to": {
                     "startLine": 1484,
                     "startColumn": 4,
-                    "startOffset": 120309,
+                    "startOffset": 120310,
                     "endColumn": 115,
-                    "endOffset": 120420
+                    "endOffset": 120421
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9148,9 +9148,9 @@
                 "to": {
                     "startLine": 1485,
                     "startColumn": 4,
-                    "startOffset": 120425,
+                    "startOffset": 120426,
                     "endColumn": 95,
-                    "endOffset": 120516
+                    "endOffset": 120517
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9167,9 +9167,9 @@
                 "to": {
                     "startLine": 1486,
                     "startColumn": 4,
-                    "startOffset": 120521,
+                    "startOffset": 120522,
                     "endColumn": 111,
-                    "endOffset": 120628
+                    "endOffset": 120629
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9186,10 +9186,10 @@
                 "to": {
                     "startLine": 1487,
                     "startColumn": 4,
-                    "startOffset": 120633,
+                    "startOffset": 120634,
                     "endLine": 1488,
                     "endColumn": 12,
-                    "endOffset": 120768
+                    "endOffset": 120769
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9207,9 +9207,9 @@
                 "to": {
                     "startLine": 1489,
                     "startColumn": 4,
-                    "startOffset": 120773,
+                    "startOffset": 120774,
                     "endColumn": 135,
-                    "endOffset": 120904
+                    "endOffset": 120905
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9226,10 +9226,10 @@
                 "to": {
                     "startLine": 1490,
                     "startColumn": 4,
-                    "startOffset": 120909,
+                    "startOffset": 120910,
                     "endLine": 1491,
                     "endColumn": 12,
-                    "endOffset": 121068
+                    "endOffset": 121069
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9247,9 +9247,9 @@
                 "to": {
                     "startLine": 1492,
                     "startColumn": 4,
-                    "startOffset": 121073,
+                    "startOffset": 121074,
                     "endColumn": 129,
-                    "endOffset": 121198
+                    "endOffset": 121199
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9266,10 +9266,10 @@
                 "to": {
                     "startLine": 1493,
                     "startColumn": 4,
-                    "startOffset": 121203,
+                    "startOffset": 121204,
                     "endLine": 1494,
                     "endColumn": 12,
-                    "endOffset": 121356
+                    "endOffset": 121357
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9287,10 +9287,10 @@
                 "to": {
                     "startLine": 1495,
                     "startColumn": 4,
-                    "startOffset": 121361,
+                    "startOffset": 121362,
                     "endLine": 1496,
                     "endColumn": 12,
-                    "endOffset": 121506
+                    "endOffset": 121507
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9308,9 +9308,9 @@
                 "to": {
                     "startLine": 1497,
                     "startColumn": 4,
-                    "startOffset": 121511,
+                    "startOffset": 121512,
                     "endColumn": 140,
-                    "endOffset": 121647
+                    "endOffset": 121648
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9327,10 +9327,10 @@
                 "to": {
                     "startLine": 1498,
                     "startColumn": 4,
-                    "startOffset": 121652,
+                    "startOffset": 121653,
                     "endLine": 1499,
                     "endColumn": 12,
-                    "endOffset": 121791
+                    "endOffset": 121792
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9348,9 +9348,9 @@
                 "to": {
                     "startLine": 1500,
                     "startColumn": 4,
-                    "startOffset": 121796,
+                    "startOffset": 121797,
                     "endColumn": 134,
-                    "endOffset": 121926
+                    "endOffset": 121927
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9367,9 +9367,9 @@
                 "to": {
                     "startLine": 1501,
                     "startColumn": 4,
-                    "startOffset": 121931,
+                    "startOffset": 121932,
                     "endColumn": 111,
-                    "endOffset": 122038
+                    "endOffset": 122039
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9386,9 +9386,9 @@
                 "to": {
                     "startLine": 1502,
                     "startColumn": 4,
-                    "startOffset": 122043,
+                    "startOffset": 122044,
                     "endColumn": 127,
-                    "endOffset": 122166
+                    "endOffset": 122167
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9405,10 +9405,10 @@
                 "to": {
                     "startLine": 1503,
                     "startColumn": 4,
-                    "startOffset": 122171,
+                    "startOffset": 122172,
                     "endLine": 1504,
                     "endColumn": 12,
-                    "endOffset": 122302
+                    "endOffset": 122303
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9426,10 +9426,10 @@
                 "to": {
                     "startLine": 1505,
                     "startColumn": 4,
-                    "startOffset": 122307,
+                    "startOffset": 122308,
                     "endLine": 1506,
                     "endColumn": 12,
-                    "endOffset": 122444
+                    "endOffset": 122445
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9447,10 +9447,10 @@
                 "to": {
                     "startLine": 1507,
                     "startColumn": 4,
-                    "startOffset": 122449,
+                    "startOffset": 122450,
                     "endLine": 1508,
                     "endColumn": 12,
-                    "endOffset": 122586
+                    "endOffset": 122587
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9468,9 +9468,9 @@
                 "to": {
                     "startLine": 1509,
                     "startColumn": 4,
-                    "startOffset": 122591,
+                    "startOffset": 122592,
                     "endColumn": 111,
-                    "endOffset": 122698
+                    "endOffset": 122699
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9487,9 +9487,9 @@
                 "to": {
                     "startLine": 1510,
                     "startColumn": 4,
-                    "startOffset": 122703,
+                    "startOffset": 122704,
                     "endColumn": 139,
-                    "endOffset": 122838
+                    "endOffset": 122839
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9506,10 +9506,10 @@
                 "to": {
                     "startLine": 1511,
                     "startColumn": 4,
-                    "startOffset": 122843,
+                    "startOffset": 122844,
                     "endLine": 1513,
                     "endColumn": 12,
-                    "endOffset": 123039
+                    "endOffset": 123040
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -9527,9 +9527,9 @@
                 "to": {
                     "startLine": 1514,
                     "startColumn": 4,
-                    "startOffset": 123044,
+                    "startOffset": 123045,
                     "endColumn": 91,
-                    "endOffset": 123131
+                    "endOffset": 123132
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -9546,10 +9546,10 @@
                 "to": {
                     "startLine": 1515,
                     "startColumn": 4,
-                    "startOffset": 123136,
+                    "startOffset": 123137,
                     "endLine": 1517,
                     "endColumn": 12,
-                    "endOffset": 123326
+                    "endOffset": 123327
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -9567,10 +9567,10 @@
                 "to": {
                     "startLine": 1518,
                     "startColumn": 4,
-                    "startOffset": 123331,
+                    "startOffset": 123332,
                     "endLine": 1520,
                     "endColumn": 12,
-                    "endOffset": 123510
+                    "endOffset": 123511
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -9588,10 +9588,10 @@
                 "to": {
                     "startLine": 1521,
                     "startColumn": 4,
-                    "startOffset": 123515,
+                    "startOffset": 123516,
                     "endLine": 1523,
                     "endColumn": 12,
-                    "endOffset": 123685
+                    "endOffset": 123686
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -9609,10 +9609,10 @@
                 "to": {
                     "startLine": 1524,
                     "startColumn": 4,
-                    "startOffset": 123690,
+                    "startOffset": 123691,
                     "endLine": 1527,
                     "endColumn": 12,
-                    "endOffset": 123938
+                    "endOffset": 123939
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -9630,10 +9630,10 @@
                 "to": {
                     "startLine": 1528,
                     "startColumn": 4,
-                    "startOffset": 123943,
+                    "startOffset": 123944,
                     "endLine": 1532,
                     "endColumn": 12,
-                    "endOffset": 124229
+                    "endOffset": 124230
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -9651,9 +9651,9 @@
                 "to": {
                     "startLine": 1533,
                     "startColumn": 4,
-                    "startOffset": 124234,
+                    "startOffset": 124235,
                     "endColumn": 67,
-                    "endOffset": 124297
+                    "endOffset": 124298
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9670,9 +9670,9 @@
                 "to": {
                     "startLine": 1534,
                     "startColumn": 4,
-                    "startOffset": 124302,
+                    "startOffset": 124303,
                     "endColumn": 72,
-                    "endOffset": 124370
+                    "endOffset": 124371
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9689,9 +9689,9 @@
                 "to": {
                     "startLine": 1535,
                     "startColumn": 4,
-                    "startOffset": 124375,
+                    "startOffset": 124376,
                     "endColumn": 73,
-                    "endOffset": 124444
+                    "endOffset": 124445
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9708,9 +9708,9 @@
                 "to": {
                     "startLine": 1536,
                     "startColumn": 4,
-                    "startOffset": 124449,
+                    "startOffset": 124450,
                     "endColumn": 72,
-                    "endOffset": 124517
+                    "endOffset": 124518
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9727,9 +9727,9 @@
                 "to": {
                     "startLine": 1537,
                     "startColumn": 4,
-                    "startOffset": 124522,
+                    "startOffset": 124523,
                     "endColumn": 73,
-                    "endOffset": 124591
+                    "endOffset": 124592
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9746,10 +9746,10 @@
                 "to": {
                     "startLine": 1538,
                     "startColumn": 4,
-                    "startOffset": 124596,
+                    "startOffset": 124597,
                     "endLine": 1539,
                     "endColumn": 12,
-                    "endOffset": 124737
+                    "endOffset": 124738
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9767,10 +9767,10 @@
                 "to": {
                     "startLine": 1540,
                     "startColumn": 4,
-                    "startOffset": 124742,
+                    "startOffset": 124743,
                     "endLine": 1541,
                     "endColumn": 12,
-                    "endOffset": 124881
+                    "endOffset": 124882
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9788,10 +9788,10 @@
                 "to": {
                     "startLine": 1542,
                     "startColumn": 4,
-                    "startOffset": 124886,
+                    "startOffset": 124887,
                     "endLine": 1543,
                     "endColumn": 12,
-                    "endOffset": 125019
+                    "endOffset": 125020
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9809,9 +9809,9 @@
                 "to": {
                     "startLine": 1544,
                     "startColumn": 4,
-                    "startOffset": 125024,
+                    "startOffset": 125025,
                     "endColumn": 65,
-                    "endOffset": 125085
+                    "endOffset": 125086
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9828,9 +9828,9 @@
                 "to": {
                     "startLine": 1545,
                     "startColumn": 4,
-                    "startOffset": 125090,
+                    "startOffset": 125091,
                     "endColumn": 89,
-                    "endOffset": 125175
+                    "endOffset": 125176
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9847,9 +9847,9 @@
                 "to": {
                     "startLine": 1546,
                     "startColumn": 4,
-                    "startOffset": 125180,
+                    "startOffset": 125181,
                     "endColumn": 79,
-                    "endOffset": 125255
+                    "endOffset": 125256
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9866,9 +9866,9 @@
                 "to": {
                     "startLine": 1547,
                     "startColumn": 4,
-                    "startOffset": 125260,
+                    "startOffset": 125261,
                     "endColumn": 91,
-                    "endOffset": 125347
+                    "endOffset": 125348
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9885,9 +9885,9 @@
                 "to": {
                     "startLine": 1548,
                     "startColumn": 4,
-                    "startOffset": 125352,
+                    "startOffset": 125353,
                     "endColumn": 97,
-                    "endOffset": 125445
+                    "endOffset": 125446
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9904,10 +9904,10 @@
                 "to": {
                     "startLine": 1549,
                     "startColumn": 4,
-                    "startOffset": 125450,
+                    "startOffset": 125451,
                     "endLine": 1550,
                     "endColumn": 12,
-                    "endOffset": 125555
+                    "endOffset": 125556
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9925,9 +9925,9 @@
                 "to": {
                     "startLine": 1551,
                     "startColumn": 4,
-                    "startOffset": 125560,
+                    "startOffset": 125561,
                     "endColumn": 77,
-                    "endOffset": 125633
+                    "endOffset": 125634
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9944,9 +9944,9 @@
                 "to": {
                     "startLine": 1552,
                     "startColumn": 4,
-                    "startOffset": 125638,
+                    "startOffset": 125639,
                     "endColumn": 105,
-                    "endOffset": 125739
+                    "endOffset": 125740
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9963,9 +9963,9 @@
                 "to": {
                     "startLine": 1553,
                     "startColumn": 4,
-                    "startOffset": 125744,
+                    "startOffset": 125745,
                     "endColumn": 91,
-                    "endOffset": 125831
+                    "endOffset": 125832
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -9982,9 +9982,9 @@
                 "to": {
                     "startLine": 1554,
                     "startColumn": 4,
-                    "startOffset": 125836,
+                    "startOffset": 125837,
                     "endColumn": 103,
-                    "endOffset": 125935
+                    "endOffset": 125936
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10001,9 +10001,9 @@
                 "to": {
                     "startLine": 1555,
                     "startColumn": 4,
-                    "startOffset": 125940,
+                    "startOffset": 125941,
                     "endColumn": 109,
-                    "endOffset": 126045
+                    "endOffset": 126046
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10020,10 +10020,10 @@
                 "to": {
                     "startLine": 1556,
                     "startColumn": 4,
-                    "startOffset": 126050,
+                    "startOffset": 126051,
                     "endLine": 1557,
                     "endColumn": 12,
-                    "endOffset": 126167
+                    "endOffset": 126168
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10041,10 +10041,10 @@
                 "to": {
                     "startLine": 1558,
                     "startColumn": 4,
-                    "startOffset": 126172,
+                    "startOffset": 126173,
                     "endLine": 1561,
                     "endColumn": 12,
-                    "endOffset": 126330
+                    "endOffset": 126331
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10062,10 +10062,10 @@
                 "to": {
                     "startLine": 1562,
                     "startColumn": 4,
-                    "startOffset": 126335,
+                    "startOffset": 126336,
                     "endLine": 1565,
                     "endColumn": 12,
-                    "endOffset": 126487
+                    "endOffset": 126488
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10083,9 +10083,9 @@
                 "to": {
                     "startLine": 1566,
                     "startColumn": 4,
-                    "startOffset": 126492,
+                    "startOffset": 126493,
                     "endColumn": 79,
-                    "endOffset": 126567
+                    "endOffset": 126568
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10102,9 +10102,9 @@
                 "to": {
                     "startLine": 1567,
                     "startColumn": 4,
-                    "startOffset": 126572,
+                    "startOffset": 126573,
                     "endColumn": 99,
-                    "endOffset": 126667
+                    "endOffset": 126668
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10121,9 +10121,9 @@
                 "to": {
                     "startLine": 1568,
                     "startColumn": 4,
-                    "startOffset": 126672,
+                    "startOffset": 126673,
                     "endColumn": 89,
-                    "endOffset": 126757
+                    "endOffset": 126758
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10140,9 +10140,9 @@
                 "to": {
                     "startLine": 1569,
                     "startColumn": 4,
-                    "startOffset": 126762,
+                    "startOffset": 126763,
                     "endColumn": 109,
-                    "endOffset": 126867
+                    "endOffset": 126868
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10159,9 +10159,9 @@
                 "to": {
                     "startLine": 1570,
                     "startColumn": 4,
-                    "startOffset": 126872,
+                    "startOffset": 126873,
                     "endColumn": 91,
-                    "endOffset": 126959
+                    "endOffset": 126960
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10178,10 +10178,10 @@
                 "to": {
                     "startLine": 1571,
                     "startColumn": 4,
-                    "startOffset": 126964,
+                    "startOffset": 126965,
                     "endLine": 1572,
                     "endColumn": 12,
-                    "endOffset": 127059
+                    "endOffset": 127060
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10199,10 +10199,10 @@
                 "to": {
                     "startLine": 1573,
                     "startColumn": 4,
-                    "startOffset": 127064,
+                    "startOffset": 127065,
                     "endLine": 1574,
                     "endColumn": 12,
-                    "endOffset": 127171
+                    "endOffset": 127172
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10220,10 +10220,10 @@
                 "to": {
                     "startLine": 1575,
                     "startColumn": 4,
-                    "startOffset": 127176,
+                    "startOffset": 127177,
                     "endLine": 1576,
                     "endColumn": 12,
-                    "endOffset": 127285
+                    "endOffset": 127286
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10241,10 +10241,10 @@
                 "to": {
                     "startLine": 1577,
                     "startColumn": 4,
-                    "startOffset": 127290,
+                    "startOffset": 127291,
                     "endLine": 1578,
                     "endColumn": 12,
-                    "endOffset": 127401
+                    "endOffset": 127402
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10262,10 +10262,10 @@
                 "to": {
                     "startLine": 1579,
                     "startColumn": 4,
-                    "startOffset": 127406,
+                    "startOffset": 127407,
                     "endLine": 1580,
                     "endColumn": 12,
-                    "endOffset": 127517
+                    "endOffset": 127518
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10283,9 +10283,9 @@
                 "to": {
                     "startLine": 1581,
                     "startColumn": 4,
-                    "startOffset": 127522,
+                    "startOffset": 127523,
                     "endColumn": 93,
-                    "endOffset": 127611
+                    "endOffset": 127612
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10302,9 +10302,9 @@
                 "to": {
                     "startLine": 1582,
                     "startColumn": 4,
-                    "startOffset": 127616,
+                    "startOffset": 127617,
                     "endColumn": 113,
-                    "endOffset": 127725
+                    "endOffset": 127726
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10321,9 +10321,9 @@
                 "to": {
                     "startLine": 1583,
                     "startColumn": 4,
-                    "startOffset": 127730,
+                    "startOffset": 127731,
                     "endColumn": 111,
-                    "endOffset": 127837
+                    "endOffset": 127838
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10340,10 +10340,10 @@
                 "to": {
                     "startLine": 1584,
                     "startColumn": 4,
-                    "startOffset": 127842,
+                    "startOffset": 127843,
                     "endLine": 1585,
                     "endColumn": 12,
-                    "endOffset": 127939
+                    "endOffset": 127940
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10361,10 +10361,10 @@
                 "to": {
                     "startLine": 1586,
                     "startColumn": 4,
-                    "startOffset": 127944,
+                    "startOffset": 127945,
                     "endLine": 1587,
                     "endColumn": 12,
-                    "endOffset": 128059
+                    "endOffset": 128060
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10382,10 +10382,10 @@
                 "to": {
                     "startLine": 1588,
                     "startColumn": 4,
-                    "startOffset": 128064,
+                    "startOffset": 128065,
                     "endLine": 1589,
                     "endColumn": 12,
-                    "endOffset": 128181
+                    "endOffset": 128182
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10403,9 +10403,9 @@
                 "to": {
                     "startLine": 1590,
                     "startColumn": 4,
-                    "startOffset": 128186,
+                    "startOffset": 128187,
                     "endColumn": 81,
-                    "endOffset": 128263
+                    "endOffset": 128264
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10422,9 +10422,9 @@
                 "to": {
                     "startLine": 1591,
                     "startColumn": 4,
-                    "startOffset": 128268,
+                    "startOffset": 128269,
                     "endColumn": 103,
-                    "endOffset": 128367
+                    "endOffset": 128368
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10441,9 +10441,9 @@
                 "to": {
                     "startLine": 1592,
                     "startColumn": 4,
-                    "startOffset": 128372,
+                    "startOffset": 128373,
                     "endColumn": 119,
-                    "endOffset": 128487
+                    "endOffset": 128488
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10460,9 +10460,9 @@
                 "to": {
                     "startLine": 1593,
                     "startColumn": 4,
-                    "startOffset": 128492,
+                    "startOffset": 128493,
                     "endColumn": 125,
-                    "endOffset": 128613
+                    "endOffset": 128614
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10479,9 +10479,9 @@
                 "to": {
                     "startLine": 1594,
                     "startColumn": 4,
-                    "startOffset": 128618,
+                    "startOffset": 128619,
                     "endColumn": 97,
-                    "endOffset": 128711
+                    "endOffset": 128712
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10498,9 +10498,9 @@
                 "to": {
                     "startLine": 1595,
                     "startColumn": 4,
-                    "startOffset": 128716,
+                    "startOffset": 128717,
                     "endColumn": 93,
-                    "endOffset": 128805
+                    "endOffset": 128806
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10517,9 +10517,9 @@
                 "to": {
                     "startLine": 1596,
                     "startColumn": 4,
-                    "startOffset": 128810,
+                    "startOffset": 128811,
                     "endColumn": 87,
-                    "endOffset": 128893
+                    "endOffset": 128894
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10536,9 +10536,9 @@
                 "to": {
                     "startLine": 1597,
                     "startColumn": 4,
-                    "startOffset": 128898,
+                    "startOffset": 128899,
                     "endColumn": 111,
-                    "endOffset": 129005
+                    "endOffset": 129006
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10555,9 +10555,9 @@
                 "to": {
                     "startLine": 1598,
                     "startColumn": 4,
-                    "startOffset": 129010,
+                    "startOffset": 129011,
                     "endColumn": 115,
-                    "endOffset": 129121
+                    "endOffset": 129122
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10574,9 +10574,9 @@
                 "to": {
                     "startLine": 1599,
                     "startColumn": 4,
-                    "startOffset": 129126,
+                    "startOffset": 129127,
                     "endColumn": 121,
-                    "endOffset": 129243
+                    "endOffset": 129244
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10593,9 +10593,9 @@
                 "to": {
                     "startLine": 1600,
                     "startColumn": 4,
-                    "startOffset": 129248,
+                    "startOffset": 129249,
                     "endColumn": 111,
-                    "endOffset": 129355
+                    "endOffset": 129356
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10612,10 +10612,10 @@
                 "to": {
                     "startLine": 1601,
                     "startColumn": 4,
-                    "startOffset": 129360,
+                    "startOffset": 129361,
                     "endLine": 1603,
                     "endColumn": 12,
-                    "endOffset": 129530
+                    "endOffset": 129531
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10633,9 +10633,9 @@
                 "to": {
                     "startLine": 1604,
                     "startColumn": 4,
-                    "startOffset": 129535,
+                    "startOffset": 129536,
                     "endColumn": 115,
-                    "endOffset": 129646
+                    "endOffset": 129647
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10652,9 +10652,9 @@
                 "to": {
                     "startLine": 1605,
                     "startColumn": 4,
-                    "startOffset": 129651,
+                    "startOffset": 129652,
                     "endColumn": 85,
-                    "endOffset": 129732
+                    "endOffset": 129733
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10671,9 +10671,9 @@
                 "to": {
                     "startLine": 1606,
                     "startColumn": 4,
-                    "startOffset": 129737,
+                    "startOffset": 129738,
                     "endColumn": 91,
-                    "endOffset": 129824
+                    "endOffset": 129825
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10690,10 +10690,10 @@
                 "to": {
                     "startLine": 1607,
                     "startColumn": 4,
-                    "startOffset": 129829,
+                    "startOffset": 129830,
                     "endLine": 1608,
                     "endColumn": 12,
-                    "endOffset": 129936
+                    "endOffset": 129937
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10711,10 +10711,10 @@
                 "to": {
                     "startLine": 1609,
                     "startColumn": 4,
-                    "startOffset": 129941,
+                    "startOffset": 129942,
                     "endLine": 1610,
                     "endColumn": 12,
-                    "endOffset": 130060
+                    "endOffset": 130061
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10732,9 +10732,9 @@
                 "to": {
                     "startLine": 1611,
                     "startColumn": 4,
-                    "startOffset": 130065,
+                    "startOffset": 130066,
                     "endColumn": 66,
-                    "endOffset": 130127
+                    "endOffset": 130128
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10751,10 +10751,10 @@
                 "to": {
                     "startLine": 1612,
                     "startColumn": 4,
-                    "startOffset": 130132,
+                    "startOffset": 130133,
                     "endLine": 1613,
                     "endColumn": 12,
-                    "endOffset": 130253
+                    "endOffset": 130254
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10772,9 +10772,9 @@
                 "to": {
                     "startLine": 1614,
                     "startColumn": 4,
-                    "startOffset": 130258,
+                    "startOffset": 130259,
                     "endColumn": 67,
-                    "endOffset": 130321
+                    "endOffset": 130322
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10791,10 +10791,10 @@
                 "to": {
                     "startLine": 1615,
                     "startColumn": 4,
-                    "startOffset": 130326,
+                    "startOffset": 130327,
                     "endLine": 1616,
                     "endColumn": 12,
-                    "endOffset": 130449
+                    "endOffset": 130450
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10812,10 +10812,10 @@
                 "to": {
                     "startLine": 1617,
                     "startColumn": 4,
-                    "startOffset": 130454,
+                    "startOffset": 130455,
                     "endLine": 1618,
                     "endColumn": 12,
-                    "endOffset": 130593
+                    "endOffset": 130594
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10833,10 +10833,10 @@
                 "to": {
                     "startLine": 1619,
                     "startColumn": 4,
-                    "startOffset": 130598,
+                    "startOffset": 130599,
                     "endLine": 1620,
                     "endColumn": 12,
-                    "endOffset": 130721
+                    "endOffset": 130722
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10854,9 +10854,9 @@
                 "to": {
                     "startLine": 1621,
                     "startColumn": 4,
-                    "startOffset": 130726,
+                    "startOffset": 130727,
                     "endColumn": 68,
-                    "endOffset": 130790
+                    "endOffset": 130791
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10873,9 +10873,9 @@
                 "to": {
                     "startLine": 1622,
                     "startColumn": 4,
-                    "startOffset": 130795,
+                    "startOffset": 130796,
                     "endColumn": 94,
-                    "endOffset": 130885
+                    "endOffset": 130886
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10892,9 +10892,9 @@
                 "to": {
                     "startLine": 1623,
                     "startColumn": 4,
-                    "startOffset": 130890,
+                    "startOffset": 130891,
                     "endColumn": 114,
-                    "endOffset": 131000
+                    "endOffset": 131001
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10911,9 +10911,9 @@
                 "to": {
                     "startLine": 1624,
                     "startColumn": 4,
-                    "startOffset": 131005,
+                    "startOffset": 131006,
                     "endColumn": 112,
-                    "endOffset": 131113
+                    "endOffset": 131114
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10930,9 +10930,9 @@
                 "to": {
                     "startLine": 1625,
                     "startColumn": 4,
-                    "startOffset": 131118,
+                    "startOffset": 131119,
                     "endColumn": 98,
-                    "endOffset": 131212
+                    "endOffset": 131213
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10949,9 +10949,9 @@
                 "to": {
                     "startLine": 1626,
                     "startColumn": 4,
-                    "startOffset": 131217,
+                    "startOffset": 131218,
                     "endColumn": 108,
-                    "endOffset": 131321
+                    "endOffset": 131322
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10968,9 +10968,9 @@
                 "to": {
                     "startLine": 1627,
                     "startColumn": 4,
-                    "startOffset": 131326,
+                    "startOffset": 131327,
                     "endColumn": 110,
-                    "endOffset": 131432
+                    "endOffset": 131433
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -10987,9 +10987,9 @@
                 "to": {
                     "startLine": 1628,
                     "startColumn": 4,
-                    "startOffset": 131437,
+                    "startOffset": 131438,
                     "endColumn": 110,
-                    "endOffset": 131543
+                    "endOffset": 131544
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11006,9 +11006,9 @@
                 "to": {
                     "startLine": 1629,
                     "startColumn": 4,
-                    "startOffset": 131548,
+                    "startOffset": 131549,
                     "endColumn": 100,
-                    "endOffset": 131644
+                    "endOffset": 131645
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11025,9 +11025,9 @@
                 "to": {
                     "startLine": 1630,
                     "startColumn": 4,
-                    "startOffset": 131649,
+                    "startOffset": 131650,
                     "endColumn": 104,
-                    "endOffset": 131749
+                    "endOffset": 131750
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11044,10 +11044,10 @@
                 "to": {
                     "startLine": 1631,
                     "startColumn": 4,
-                    "startOffset": 131754,
+                    "startOffset": 131755,
                     "endLine": 1632,
                     "endColumn": 12,
-                    "endOffset": 131861
+                    "endOffset": 131862
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11065,10 +11065,10 @@
                 "to": {
                     "startLine": 1633,
                     "startColumn": 4,
-                    "startOffset": 131866,
+                    "startOffset": 131867,
                     "endLine": 1634,
                     "endColumn": 12,
-                    "endOffset": 131991
+                    "endOffset": 131992
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11086,9 +11086,9 @@
                 "to": {
                     "startLine": 1635,
                     "startColumn": 4,
-                    "startOffset": 131996,
+                    "startOffset": 131997,
                     "endColumn": 90,
-                    "endOffset": 132082
+                    "endOffset": 132083
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11105,9 +11105,9 @@
                 "to": {
                     "startLine": 1636,
                     "startColumn": 4,
-                    "startOffset": 132087,
+                    "startOffset": 132088,
                     "endColumn": 122,
-                    "endOffset": 132205
+                    "endOffset": 132206
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11124,10 +11124,10 @@
                 "to": {
                     "startLine": 1637,
                     "startColumn": 4,
-                    "startOffset": 132210,
+                    "startOffset": 132211,
                     "endLine": 1638,
                     "endColumn": 12,
-                    "endOffset": 132317
+                    "endOffset": 132318
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11145,9 +11145,9 @@
                 "to": {
                     "startLine": 1639,
                     "startColumn": 4,
-                    "startOffset": 132322,
+                    "startOffset": 132323,
                     "endColumn": 85,
-                    "endOffset": 132403
+                    "endOffset": 132404
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11164,9 +11164,9 @@
                 "to": {
                     "startLine": 1640,
                     "startColumn": 4,
-                    "startOffset": 132408,
+                    "startOffset": 132409,
                     "endColumn": 103,
-                    "endOffset": 132507
+                    "endOffset": 132508
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11183,10 +11183,10 @@
                 "to": {
                     "startLine": 1641,
                     "startColumn": 4,
-                    "startOffset": 132512,
+                    "startOffset": 132513,
                     "endLine": 1642,
                     "endColumn": 12,
-                    "endOffset": 132615
+                    "endOffset": 132616
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11204,10 +11204,10 @@
                 "to": {
                     "startLine": 1643,
                     "startColumn": 4,
-                    "startOffset": 132620,
+                    "startOffset": 132621,
                     "endLine": 1644,
                     "endColumn": 12,
-                    "endOffset": 132715
+                    "endOffset": 132716
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11225,10 +11225,10 @@
                 "to": {
                     "startLine": 1645,
                     "startColumn": 4,
-                    "startOffset": 132720,
+                    "startOffset": 132721,
                     "endLine": 1646,
                     "endColumn": 12,
-                    "endOffset": 132833
+                    "endOffset": 132834
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11246,10 +11246,10 @@
                 "to": {
                     "startLine": 1647,
                     "startColumn": 4,
-                    "startOffset": 132838,
+                    "startOffset": 132839,
                     "endLine": 1648,
                     "endColumn": 12,
-                    "endOffset": 132937
+                    "endOffset": 132938
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11267,10 +11267,10 @@
                 "to": {
                     "startLine": 1649,
                     "startColumn": 4,
-                    "startOffset": 132942,
+                    "startOffset": 132943,
                     "endLine": 1650,
                     "endColumn": 12,
-                    "endOffset": 133041
+                    "endOffset": 133042
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11288,10 +11288,10 @@
                 "to": {
                     "startLine": 1651,
                     "startColumn": 4,
-                    "startOffset": 133046,
+                    "startOffset": 133047,
                     "endLine": 1652,
                     "endColumn": 12,
-                    "endOffset": 133167
+                    "endOffset": 133168
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11309,9 +11309,9 @@
                 "to": {
                     "startLine": 1653,
                     "startColumn": 4,
-                    "startOffset": 133172,
+                    "startOffset": 133173,
                     "endColumn": 87,
-                    "endOffset": 133255
+                    "endOffset": 133256
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11328,9 +11328,9 @@
                 "to": {
                     "startLine": 1654,
                     "startColumn": 4,
-                    "startOffset": 133260,
+                    "startOffset": 133261,
                     "endColumn": 89,
-                    "endOffset": 133345
+                    "endOffset": 133346
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11347,9 +11347,9 @@
                 "to": {
                     "startLine": 1655,
                     "startColumn": 4,
-                    "startOffset": 133350,
+                    "startOffset": 133351,
                     "endColumn": 109,
-                    "endOffset": 133455
+                    "endOffset": 133456
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11366,9 +11366,9 @@
                 "to": {
                     "startLine": 1656,
                     "startColumn": 4,
-                    "startOffset": 133460,
+                    "startOffset": 133461,
                     "endColumn": 83,
-                    "endOffset": 133539
+                    "endOffset": 133540
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11385,9 +11385,9 @@
                 "to": {
                     "startLine": 1657,
                     "startColumn": 4,
-                    "startOffset": 133544,
+                    "startOffset": 133545,
                     "endColumn": 83,
-                    "endOffset": 133623
+                    "endOffset": 133624
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11404,9 +11404,9 @@
                 "to": {
                     "startLine": 1658,
                     "startColumn": 4,
-                    "startOffset": 133628,
+                    "startOffset": 133629,
                     "endColumn": 53,
-                    "endOffset": 133677
+                    "endOffset": 133678
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11423,9 +11423,9 @@
                 "to": {
                     "startLine": 1659,
                     "startColumn": 4,
-                    "startOffset": 133682,
+                    "startOffset": 133683,
                     "endColumn": 63,
-                    "endOffset": 133741
+                    "endOffset": 133742
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11442,9 +11442,9 @@
                 "to": {
                     "startLine": 1660,
                     "startColumn": 4,
-                    "startOffset": 133746,
+                    "startOffset": 133747,
                     "endColumn": 105,
-                    "endOffset": 133847
+                    "endOffset": 133848
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11461,9 +11461,9 @@
                 "to": {
                     "startLine": 1661,
                     "startColumn": 4,
-                    "startOffset": 133852,
+                    "startOffset": 133853,
                     "endColumn": 109,
-                    "endOffset": 133957
+                    "endOffset": 133958
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11480,9 +11480,9 @@
                 "to": {
                     "startLine": 1662,
                     "startColumn": 4,
-                    "startOffset": 133962,
+                    "startOffset": 133963,
                     "endColumn": 83,
-                    "endOffset": 134041
+                    "endOffset": 134042
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11499,9 +11499,9 @@
                 "to": {
                     "startLine": 1663,
                     "startColumn": 4,
-                    "startOffset": 134046,
+                    "startOffset": 134047,
                     "endColumn": 119,
-                    "endOffset": 134161
+                    "endOffset": 134162
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values/values.xml",
@@ -11518,10 +11518,10 @@
                 "to": {
                     "startLine": 1664,
                     "startColumn": 4,
-                    "startOffset": 134166,
+                    "startOffset": 134167,
                     "endLine": 1667,
                     "endColumn": 12,
-                    "endOffset": 134379
+                    "endOffset": 134380
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -11539,10 +11539,10 @@
                 "to": {
                     "startLine": 1668,
                     "startColumn": 4,
-                    "startOffset": 134384,
+                    "startOffset": 134385,
                     "endLine": 1671,
                     "endColumn": 12,
-                    "endOffset": 134586
+                    "endOffset": 134587
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -11560,10 +11560,10 @@
                 "to": {
                     "startLine": 1672,
                     "startColumn": 4,
-                    "startOffset": 134591,
+                    "startOffset": 134592,
                     "endLine": 1674,
                     "endColumn": 12,
-                    "endOffset": 134745
+                    "endOffset": 134746
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -11581,10 +11581,10 @@
                 "to": {
                     "startLine": 1675,
                     "startColumn": 4,
-                    "startOffset": 134750,
+                    "startOffset": 134751,
                     "endLine": 1683,
                     "endColumn": 12,
-                    "endOffset": 135312
+                    "endOffset": 135313
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -11602,10 +11602,10 @@
                 "to": {
                     "startLine": 1684,
                     "startColumn": 4,
-                    "startOffset": 135317,
+                    "startOffset": 135318,
                     "endLine": 1689,
                     "endColumn": 12,
-                    "endOffset": 135673
+                    "endOffset": 135674
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -11623,10 +11623,10 @@
                 "to": {
                     "startLine": 1690,
                     "startColumn": 4,
-                    "startOffset": 135678,
+                    "startOffset": 135679,
                     "endLine": 1692,
                     "endColumn": 12,
-                    "endOffset": 135802
+                    "endOffset": 135803
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -11644,10 +11644,10 @@
                 "to": {
                     "startLine": 1693,
                     "startColumn": 4,
-                    "startOffset": 135807,
+                    "startOffset": 135808,
                     "endLine": 1702,
                     "endColumn": 12,
-                    "endOffset": 136546
+                    "endOffset": 136547
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -11665,10 +11665,10 @@
                 "to": {
                     "startLine": 1703,
                     "startColumn": 4,
-                    "startOffset": 136551,
+                    "startOffset": 136552,
                     "endLine": 1706,
                     "endColumn": 12,
-                    "endOffset": 136726
+                    "endOffset": 136727
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -11686,10 +11686,10 @@
                 "to": {
                     "startLine": 1707,
                     "startColumn": 4,
-                    "startOffset": 136731,
+                    "startOffset": 136732,
                     "endLine": 1712,
                     "endColumn": 12,
-                    "endOffset": 137167
+                    "endOffset": 137168
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/com.android.support/design/23.1.1/res/values/values.xml",
@@ -11707,10 +11707,10 @@
                 "to": {
                     "startLine": 1713,
                     "startColumn": 4,
-                    "startOffset": 137172,
+                    "startOffset": 137173,
                     "endLine": 1715,
                     "endColumn": 12,
-                    "endOffset": 137343
+                    "endOffset": 137344
                 },
                 "from": {
                     "file": "/Users/PhucNgo/Desktop/CS/Hackathon/houndify-sdk-sample-0.2.16/build/intermediates/exploded-aar/hound.android/hound-sdk/0.2.15/res/values/values.xml",
