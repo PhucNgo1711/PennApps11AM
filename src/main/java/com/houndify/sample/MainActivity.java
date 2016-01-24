@@ -592,6 +592,7 @@ class MyLocationListener implements LocationListener {
     public void onLocationChanged(Location loc) {
         lon = loc.getLongitude();
         lat = loc.getLatitude();
+
         for(EmergencyNews newsItem : Globals.emergencies) {
             float[] results = new float[1];
             Location.distanceBetween(lat, lon, newsItem.coords.getLatitude(), newsItem.coords.getLongitude(), results);
